@@ -1,0 +1,30 @@
+body{
+    background-image:url("https://imgd.aeplcdn.com/0x0/n/cw/ec/40087/thar-exterior-right-rear-three-quarter.jpeg");
+    background-size:cover;
+}
+h1{
+  border:4px dotted yellow;
+  text-align:center;
+  color:red;
+  margin-left:300px;
+  margin-right:300px;
+}
+h2{
+    color:aquamarine;
+    border:3px solid red;
+    margin-right:1200px;
+}
+ol{
+    color:greenyellow;
+    font-size:20px;
+}
+dl{
+    color:blue;
+    font-size:20px;
+}
+ul{
+    color:#cc00cc;
+}
+dd{
+    color:aquamarine;
+}
