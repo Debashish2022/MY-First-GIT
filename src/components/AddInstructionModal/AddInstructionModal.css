@@ -1,0 +1,75 @@
+#AddInstruction1{
+    padding: 2rem;
+}
+#AddInstruction2{
+    padding-left: 3.4rem;
+    cursor: pointer;
+}
+#AddInstruction3{
+    border-radius: 0.3rem;
+}
+#AddInstruction6{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width:50rem;
+}
+#AddInstruction7{
+    margin-bottom:1.5rem;
+    font-size: 1.;
+}
+/* #AddInstruction8{
+    margin-left: 3rem;
+    background-color: red;
+    color: white;
+    padding-top: 0.2rem;
+    padding-bottom: 0.2rem;
+    padding-left: 0.3rem;
+    padding-right: 0.3rem;
+    border-radius: 1rem;
+} */
+#AddInstruction9{
+    display: flex;
+
+}
+#AddInstruction10{
+    margin-left: 2rem;
+}
+.AddInstruction11{
+    padding-top: 1.5rem;
+}
+#AddInstruction12{
+    /* width: 1.5rem; */
+    color: red;
+    text-align: center;
+    border-radius: 1rem;
+}
+#AddInstruction13{
+    
+    text-align: center;
+    border-radius: 1rem;
+    color: green;
+}
+#AddInstruction14{
+    height: 1rem;
+    margin-top: 0.3rem;
+}
+
+@media only screen and (max-width: 600px) {
+    #AddInstruction6{
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        width:22rem;
+    }
+    #AddInstruction2{
+        padding-left: 2rem;
+        cursor: pointer;
+    }
+  }
+  #AddInstruction16{
+    color:red;
+    font-weight: 500;
+  }

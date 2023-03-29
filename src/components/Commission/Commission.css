@@ -1,0 +1,62 @@
+#comm1 {
+  margin: 3rem 1rem 1rem 1rem;
+}
+#comm2 {
+  overflow-x: auto;
+  overflow-y: hidden;
+  white-space: nowrap;
+}
+#comm3 {
+  font-weight: bold;
+  font-size: 1.05rem;
+}
+@media only screen and (max-width: 700px) {
+  #comm1 {
+    margin: 3.8rem 1rem 1rem 1rem;
+    width: 92%;
+  }
+}
+@media only screen and (min-width: 820px) {
+  #comm1 {
+    margin: 3rem 1rem 1rem 1rem;
+    width: 95%;
+  }
+}
+#comm4 {
+  font-weight: 600;
+  font-size: 1.5rem;
+}
+#comm5 {
+  text-align: center;
+  font-weight: bold;
+  margin-top: 6rem;
+  margin-bottom: 3rem;
+  min-height: 50vh;
+}
+#comm6 {
+  border: 1px solid #bcbcbc;
+  box-shadow: 0px 4px 4px rgb(0 0 0 / 25%);
+  padding: 1.2rem;
+  border-radius: 0.5rem;
+  margin-top: 2rem;
+  overflow: scroll;
+}
+#comm7 {
+  padding-left: 1rem;
+  padding-right: 1rem;
+  margin-top: 1.7rem;
+  padding-bottom: 3rem;
+  width: 100%;
+}
+#comm8 {
+  font-weight: 600;
+  margin-bottom: 0.3rem;
+  font-size: 0.89rem;
+}
+
+#comm9 {
+  font-size: 0.88rem;
+}
+#comm10{
+  margin-top: 1.2rem;
+}

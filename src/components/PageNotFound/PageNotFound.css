@@ -1,0 +1,13 @@
+#pageNotFoundDiv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: red;
+    margin-right: 0px;
+    margin-top: 2rem;
+}
+
+#sadEmojiImg {
+    width: 20%;
+}

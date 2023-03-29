@@ -1,0 +1,45 @@
+#ComModal1 {
+  padding: 2rem;
+}
+#ComModal2 {
+  padding-left: 3.4rem;
+  cursor: pointer;
+}
+#ComModal3 {
+  border-radius: 0.3rem;
+}
+
+
+
+#ComModal4 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 50rem;
+}
+#ComModal5{
+    margin-top: 2rem;
+}
+@media only screen and (max-width: 600px) {
+  #ComModal2 {
+    padding-left: 2rem;
+    cursor: pointer;
+  }
+  #ComModal4 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 22rem;
+  }
+  #ComModal5{
+    margin-top: 1rem;
+}
+}
+#ComModal6{
+  color: red;
+    font-size: 0.9rem;
+    margin-left: 0.3rem;
+    margin-top: 0.3rem;
+}

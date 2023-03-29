@@ -1,0 +1,88 @@
+#resellers1 {
+    display: flex;
+    position: relative;
+}
+#resellers2 {
+    position: absolute;
+    right: 0;
+}
+#resellers3 {
+    font-weight: 600;
+    font-size: 1.5rem;
+}
+#resellers4 {
+    color: black;
+    font-size: 1.5rem;
+    background: linear-gradient(151.04deg, #FFFFFF -77.55%, #E8E8E8 171.1%);
+    box-shadow: 0px 2px 3px rgb(0 0 0 / 25%);
+}
+#resellers5 {
+    background-color: #454545;
+    color: #ffffff;
+    margin-left: 1rem;
+}
+#resellers6 {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+#resellers7 {
+    border: 1px solid #BCBCBC;
+    box-shadow: 0px 4px 4px rgb(0 0 0 / 25%);
+    border-radius: 0.3rem;
+    padding: 1rem;
+}
+#resellers8 {
+    color: #1976D2;
+    font-size: 0.7rem;
+    font-weight: 600;
+}
+#resellers9 {
+    display: flex;
+    justify-content: end;
+    margin-top: 1rem;
+}
+#resellers10 {
+    font-size: 0.8rem;
+    font-weight: 600;
+}
+#resellers11 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#reseller12 {
+    margin-top: "2rem";
+    overflow-x: auto;
+  overflow-y: hidden;
+  white-space: nowrap;
+}
+#reseller13 {
+    background: #A0041E;
+    margin-left: 1rem;
+    font-size: 0.7rem;
+    font-weight: 600;
+    margin-top: 0.5rem;
+}
+#reseller14 {
+    font-size: 0.7rem;
+    font-weight: 600;
+    margin-top: 0.5rem;
+}
+
+#reseller15 {
+    font-size: 0.7rem;
+    font-weight: 600;
+    margin-top: 0.5rem;
+    background: rgb(56, 142, 60);
+    margin-right: 1rem;
+}
+
+
+
+.css-v4u5dn-MuiInputBase-root-MuiInput-root:before {
+    border-bottom: none;
+}
+.css-v4u5dn-MuiInputBase-root-MuiInput-root:hover:not(.Mui-disabled, .Mui-error):before {
+    border-bottom: none;
+}
+
