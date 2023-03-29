@@ -1,0 +1,50 @@
+#login1{
+    max-width: 25rem;
+    margin: auto;
+    border-radius: 2rem;
+    padding: 1rem;
+    min-height: 60vh;
+}
+#login2{
+    text-align: center;
+    font-weight: 700;
+    margin-bottom: 1.5rem;
+    margin-top: 1rem;
+}
+#login3{
+    min-height: 100vh;
+    background-image: linear-gradient(to left, #243972 , #14234A);
+    display: flex;
+    align-items: center;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+#login4{
+    margin-bottom: 1rem;
+}
+#login5{
+    height: 2.5rem;
+    margin-top: 1rem;
+}
+#login6{
+    color: #C94A22;
+    text-align: center;
+    font-weight: bolder;
+    text-decoration: none;
+    cursor: pointer;
+}
+#login7{
+    text-align: center;
+    width: 15rem;
+    margin-top: 0.5rem;
+    margin-left: 0.5rem;
+}
+#login8{
+        text-align: center;
+        font-weight: 700;
+        margin-top: 1.5rem;
+        color: #454545;
+}
+.login9{
+    text-transform: lowercase;
+}

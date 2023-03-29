@@ -1,0 +1,14 @@
+#AddCard1{
+    border-radius: 1rem;
+}
+#AddCard2{
+    margin-top: 0.9rem;
+}
+#AddCard3{
+    margin-top: 0.9rem;
+    height: 2.7rem;
+}
+#AddCard4{
+    margin-bottom: 1rem;
+    cursor: pointer;
+}

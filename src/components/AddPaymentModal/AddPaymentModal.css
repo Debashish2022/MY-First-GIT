@@ -1,0 +1,40 @@
+#AddPayment1{
+    padding: 2rem;
+}
+#AddPayment2{
+    padding-left: 3.4rem;
+    cursor: pointer;
+}
+#AddPayment3{
+    border-radius: 0.3rem;
+}
+#AddPayment4{
+    background-color: #388E3C;
+    color: white;
+    margin-top: 0.6rem;
+}
+#AddPayment5{
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+}
+#AddPayment6{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width:50rem;
+}
+
+@media only screen and (max-width: 600px) {
+    #AddPayment6{
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        width:22rem;
+    }
+    #AddPayment2{
+        padding-left: 2rem;
+        cursor: pointer;
+    }
+  }
