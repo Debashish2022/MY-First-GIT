@@ -1,0 +1,16 @@
+#aam1 {
+    border-top: none;
+}
+#aam2 {
+    border-bottom: none;
+}
+#aam3 {
+    float: right;
+    padding: 0 1rem 0 1rem;
+    margin-top: 0.5rem;
+    font-size: 0.8rem;
+    font-weight: 600;
+}
+#aam4 {
+    margin-top: 2rem;
+}

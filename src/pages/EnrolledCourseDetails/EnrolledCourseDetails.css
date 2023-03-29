@@ -1,0 +1,19 @@
+#ecd1 {
+    background: #1E1E1E;
+    color: white;
+    padding: 2rem;
+    border-radius: 1rem;
+    margin-top: 1rem;
+}
+#ecd2 {
+    font-size: 1.3rem;
+    font-weight: 500;
+}
+#ecd3 {
+    font-size: 1rem;
+    font-weight: 500;
+}
+#ecd4 {
+    display: flex;
+    justify-content: end;
+}

@@ -1,0 +1,22 @@
+#addcoursebutton {
+  background-color: #f05904;
+  color: #eff1fe;
+  border: 0.4rem solid #eff1fe;
+  font-weight: 500;
+}
+#rowdiv {
+  display: flex;
+  background-color: black;
+}
+
+#courses1 {
+  color: #ffffff;
+  font-size: x-large;
+  font-weight: 600;
+}
+#courses2 {
+  min-height: 90vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

@@ -1,0 +1,19 @@
+#dashboardcard1 {
+    border: 1px solid #CDCDCD;
+    border-radius: 0.5rem;
+    padding: 1rem 0rem 1rem 1.5rem;
+    box-shadow: 6px 1px 7px rgba(0, 0, 0, 0.25);
+}
+#dashboardcard2 {
+    background: linear-gradient(180deg, #FC3973 0%, #F05904 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 1rem;
+    font-weight: 500;
+}
+#dashboardcard3 {
+    border-bottom: 4px solid transparent;
+    border-image: linear-gradient(90.82deg, #F05904 4.05%, #FC3973 50.7%);
+    border-image-slice: 1;
+    width: 80%;
+}

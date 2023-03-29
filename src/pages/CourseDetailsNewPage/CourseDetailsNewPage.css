@@ -1,0 +1,119 @@
+#coursedetails1 {
+  color: #ffffff;
+  font-size: medium;
+  font-weight: 400;
+}
+
+#coursedetails2 {
+  border: none;
+  border-bottom: 1px solid #000000;
+  border-radius: 0px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: small;
+  line-height: 1.2rem;
+  color: #002333;
+}
+
+#coursedetails3 {
+  background-color: #002333;
+  border-radius: 5px;
+  width: 100%;
+}
+
+#coursedetails4 {
+  border-radius: 5px;
+  width: 100%;
+}
+
+#coursedetails5 {
+  display: block;
+  width: 100%;
+  padding: 0.375rem 0.75rem;
+  color: #212529;
+  background-color: #fff;
+  background-clip: padding-box;
+  border: none;
+  border-bottom: 1px solid #000000;
+  border-radius: 0px;
+}
+
+#coursedetails6 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+#uploadIcon {
+  font-size: medium;
+  margin-right: 0.5rem;
+  color: #fa4159;
+  cursor: pointer;
+}
+
+#coursedetails7 {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: small;
+  line-height: 1.2rem;
+  color: darkslategrey;
+}
+
+#courseContentTxt {
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.4rem;
+  /* line-height: 52px; */
+  color: #1e1e1e;
+  margin-bottom: 0.6rem;
+  margin-top: 1rem;
+}
+
+#coursedetails9 {
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 500;
+  font-size: small;
+  color: #002333;
+  margin-bottom: 0.6rem;
+  margin-top: 1rem;
+  border: 1px solid #002333;
+  border-radius: 5px;
+  padding: 0.5rem;
+}
+
+#coursedetails10 {
+  padding-top: 1rem;
+}
+
+#coursedetails11 thead tr {
+  background-color: #002333;
+}
+
+#coursedetails11 thead tr th {
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 500;
+  font-size: small;
+  color: #ffffff;
+}
+
+#coursedetails11 tbody tr td {
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 500;
+  font-size: small;
+  color: #002333;
+}
+
+#coursedetails12 {
+  overflow-x: auto;
+  white-space: nowrap;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}

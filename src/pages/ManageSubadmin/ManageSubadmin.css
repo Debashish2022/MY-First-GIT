@@ -1,0 +1,29 @@
+#msa1 {
+    margin-top: 1rem;
+}
+#msa2 {
+    padding: 1rem;
+    margin-top: 2rem;
+    border: 1px solid #C3C3C3;
+    box-shadow: 0px 4px 9px rgb(0 0 0 / 25%);
+    overflow-x: auto;
+  overflow-y: hidden;
+  white-space: nowrap;
+}
+#msa3 {
+    width: 100%;
+    background: #FC3973;
+    border: none;
+}
+#msa4 {
+    background: #FC3973;
+    border: none;
+    padding: 0 1rem 0 1rem;
+    font-size: 0.9rem;
+    font-weight: 500;
+    border-radius: 0.2rem;
+}
+#msa5 {
+    background: #FC3973;
+    color: white;
+}

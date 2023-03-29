@@ -1,0 +1,50 @@
+#tcc1 {
+    background: #F8F9FE;
+    border: 1px solid #DEDEDE;
+    box-shadow: 0px 4px 10px rgb(0 0 0 / 25%);
+    border-radius: 1rem;
+    padding: 1rem;
+    margin-right: 1rem;
+    margin-bottom: 1rem;
+}
+#tcc2 {
+    font-family: Jost;
+    font-weight: 400;
+    text-align: justify;
+    margin: 0.5rem 0 0.5rem 0;
+}
+#tcc3 {
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+#tcc4 {
+    font-size: 0.6rem;
+    font-weight: 500;
+    margin: 0 0 0.5rem 0;
+}
+#tcc6 {
+    text-decoration: none;
+    color: initial;
+}
+#tcc7 {
+    color: #F05904;
+    position: absolute;
+    right: 0.2rem;
+    top: 0.1rem;
+}
+#tcc9 {
+    position: absolute;
+    left: 0.2rem;
+    top: 0.1rem;
+}
+#tcc8 {
+    width: 100%;
+    height: 16rem;
+    border-radius: 0.5rem;
+    cursor: pointer;
+}
+#tcc10 {
+    font-weight: 600;
+    color: orangered;
+}

@@ -1,0 +1,100 @@
+#coaching1 {
+  margin: 2rem 0rem 1rem 0rem;
+}
+
+#coaching2 {
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: #f05904 ;
+  font-family: Poppins;
+  padding: 0px;
+}
+
+#coaching3 {
+  display: flex;
+  justify-content: flex-end;
+}
+
+#coaching4{
+  background-color: #f05904;
+  color: #ffffff;
+}
+
+#coaching5{
+  border: 2px solid #f05904;
+  color: #222222;
+  font-family: Poppins;
+  font-size: small;
+}
+
+#coaching6{
+  color: #222222;
+  font-family: Poppins;
+  font-weight: 500;
+  margin-bottom: 0.2rem;
+  font-size: x-small;
+}
+
+#districtNames {
+  padding: 0.5rem;
+  border: 1px solid pink;
+  background-color: #FA4159;
+  border-radius: 5px;
+  text-align: center;
+  font-size: small;
+  font-weight: 400;
+color: #ffffff;
+}
+
+#removeDistrict {
+  display: flex;
+  position: relative;
+  bottom: 45px;
+  left: 6px;
+  justify-content: flex-end;
+}
+
+#coaching7{
+  color: #222222;
+  cursor: pointer;
+}
+
+#coaching8 thead tr {
+  background-color: #002333;
+}
+
+#coaching8 thead tr th {
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 500;
+  font-size: small;
+  color: #ffffff;
+}
+
+#coaching8 tbody tr td {
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 500;
+  font-size: small;
+  color: #002333;
+  margin-right: 0.6rem;
+}
+
+#coaching8 {
+  overflow-x: auto;
+  white-space: nowrap;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+#coaching9 {
+  margin-right: 1rem;
+}
+
+#coaching10 {
+  font-size: small;
+  font-weight: 500;
+}
+

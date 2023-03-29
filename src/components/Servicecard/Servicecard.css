@@ -1,0 +1,54 @@
+.servicecard_single {
+  margin-top: 5rem;
+  /* height: 34rem; */
+  offset: 1px, 9px rgba(50, 50, 50, 0.25);
+  border-radius: 1rem;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+}
+
+.servicecard_single:hover {
+  border: 2px solid #fc3973;
+  transition: 20ms;
+  color: white;
+}
+.Servicecard_heading {
+  color: #fc3973;
+
+  font-family: jost;
+  font-weight: 600;
+  font-size: 1.1rem;
+  text-align: center;
+  margin-top: 1rem;
+}
+
+.Servicecard_paragraph {
+  font-size: 1rem;
+  font-family: jost;
+  font-weight: 300;
+  color: black;
+  text-align: justify;
+  padding: 1rem 1rem 2rem 2rem;
+}
+
+.Servicecard_dice {
+  margin-top: -4rem;
+  height: 8rem;
+  width: 8rem;
+  border-radius: 50%;
+}
+
+#sc1 {
+  background: #fc3973;
+  padding: 0 1rem 0 1rem;
+  border: none;
+  font-size: 0.8rem;
+  font-weight: 600;
+}
+#sc2 {
+  background: none;
+  color: orange;
+  border: none;
+  font-size: 0.9rem;
+  font-weight: 500;
+  box-shadow: none;
+}

@@ -1,0 +1,78 @@
+#cd1 {
+  background: #002333;
+  color: white;
+  padding: 1rem;
+}
+#cd2 {
+  font-size: 1.2rem;
+  font-weight: 500;
+}
+.mb-3 {
+  margin-bottom: 0rem !important;
+}
+.cd3 {
+  border: none;
+  margin-bottom: 2rem;
+  border-bottom: 1px solid #212529;
+  border-radius: 0;
+  padding-left: 0;
+}
+#cd4 {
+  background: #212529;
+  border: none;
+  width: 100%;
+  border-radius: 0.2rem;
+}
+#cd5 {
+  background: #002333;
+  padding: 0.2rem;
+  font-weight: 600;
+  color: white;
+  border-radius: 0.2rem;
+  margin-bottom: 0.5rem;
+  cursor: pointer;
+}
+#cd6 {
+  background: #002333;
+  padding: 0.2rem;
+  font-weight: 600;
+  color: white;
+  border-radius: 0.2rem;
+  margin-bottom: 0.5rem;
+  height: 18rem;
+}
+#cd7 {
+  background: #002333;
+  padding: 0.2rem;
+  font-weight: 500;
+  font-size: 0.8rem;
+  color: white;
+  border-radius: 0.2rem;
+  margin-bottom: 0.5rem;
+  height: 5rem;
+}
+
+#cd8 {
+  overflow-x: auto;
+  overflow-y: hidden;
+  white-space: nowrap;
+}
+#cd9 {
+  border-radius: 0;
+  font-weight: 500;
+  background: rgb(90, 100, 100);
+  border: none;
+  margin-bottom: 1rem;
+  border-radius: 0.2rem;
+}
+#cd10 {
+  display: flex;
+  justify-content: center;
+}
+#cd11 {
+  border-radius: 0;
+    font-weight: 500;
+    background: rgb(50, 100, 100);
+    border: none;
+    /* for live class */
+}

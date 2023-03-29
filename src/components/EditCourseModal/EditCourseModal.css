@@ -1,0 +1,56 @@
+
+.ecmm6 {
+    background: linear-gradient(93.11deg, #FC3973 4.42%, #F05904 136.36%);
+    color: white;
+}
+#ecmm5 {
+    display: flex;
+    justify-content: center;
+    border-top: none;
+}
+#ecmm4 {
+    background-color: #FC3973;
+    border: none;
+    color: white;
+    font-weight: 500;
+    padding: 0.3rem 2rem 0.3rem 2rem;
+    border-radius: 1rem;
+}
+
+.ecmm1 {
+    border: 2px solid #FC3973;
+    margin-bottom: 1rem;
+}
+.ecmm2 {
+    border: 2px solid #FC3973;
+    margin-top: 1rem;
+}
+.ecmm3 {
+    border: 2px solid #FC3973;
+    border-radius: 0.3rem;
+    margin-bottom: 1rem;
+}
+.ecmm4 {
+    border: 2px solid #FC3973;
+    border-radius: 0.3rem;
+    margin-top: 1rem;
+}
+#ecmm5 {
+    height: 5rem;
+    width: 8rem;
+}
+#ecmm6 {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 1rem;
+}
+#ecmm7 {
+    margin-bottom: 1rem;
+    font-size: 0.8rem;
+    font-weight: 500;
+}
+#ecmm8 {
+    background: linear-gradient(93.11deg, #FC3973 4.42%, #F05904 136.36%);
+    color: white;
+    border: none;
+}

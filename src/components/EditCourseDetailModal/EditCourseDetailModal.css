@@ -1,0 +1,23 @@
+#ecdm1 {
+  border-bottom: none;
+}
+#ecdm2 {
+  border-top: none;
+}
+.ecdm3 {
+  border: none;
+  margin-bottom: 1rem;
+  border-bottom: 1px solid #212529;
+  border-radius: 0;
+}
+#ecdm4 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#ecdm5 {
+  padding: 0 0.5rem 0 0.5rem;
+  font-size: 0.8rem;
+  font-weight: 500;
+  border-radius: 0.2rem;
+}

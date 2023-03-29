@@ -1,0 +1,36 @@
+#bm1 {
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+}
+#bm2 {
+    display: flex;
+    justify-content: flex-end;
+    color: #fc3973;
+}
+#bm3 {
+    background: linear-gradient(90.27deg, #f8742b 49.3%, #fc3973 79.09%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+#bm4 {
+    width: 75%;
+}
+#bm5 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#bm6 {
+    background: linear-gradient(90.27deg, #f8742b 49.3%, #fc3973 79.09%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-top: 1rem;
+}
+#bm7 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}

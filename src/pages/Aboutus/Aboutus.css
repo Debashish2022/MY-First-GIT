@@ -1,0 +1,48 @@
+#abt1 {
+    font-size: 1.5rem;
+    font-weight: 600;
+    background: linear-gradient(80.65deg, #F05904 40.99%, #FC3973 61.61%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+#abt2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#abt3 {
+    font-size: 1.3rem;
+    font-weight: 500;
+}
+#abt4 {
+    text-align: justify;
+    font-weight: 500;
+}
+#abt5 {
+    padding: 0 1rem 0 1rem;
+    background: linear-gradient(90.27deg, #f8742b 49.3%, #fc3973 79.09%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+#abt6 {
+    display: flex;
+    justify-content: flex-end;
+}
+#abt7 {
+    display: flex;
+    margin: 0 1rem 0 1rem;
+}
+#abt8 {
+    margin: 2rem 0 2rem 0;
+}
+#abt9 {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#abt10 {
+    height: 5rem;
+    width: 10rem;
+}

@@ -1,0 +1,80 @@
+.StudentActiveText {
+  font-size: 32px;
+}
+.StudentImage {
+  width: 350px;
+  height: 389px;
+  margin-top: 10;
+}
+.ChartImage {
+  width: 700px;
+  height: 389px;
+  margin-top: 10;
+  margin-bottom: 20;
+}
+.ExamResultDiv {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  height: min-content;
+  background-color: black;
+  margin-top: 1vw;
+  padding: 20px;
+  margin-bottom: 5px;
+  border-radius: 10px;
+}
+.ExamResultDiv3 {
+  height: min-content;
+  background-color: black;
+  margin-top: 1vw;
+  padding: 20px;
+  margin-bottom: 5px;
+  border-radius: 10px;
+}
+.modulemaindiv {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+}
+.progressText {
+  font-size: 32px;
+}
+.ExamResultDiv1 {
+  display: flex;
+
+  height: min-content;
+  background-color: black;
+  margin-top: 1vw;
+  padding: 20px;
+  margin-bottom: 5px;
+  border-radius: 10px;
+}
+.ExamResultDiv2 {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+}
+
+.text {
+  margin-top: 20px;
+  color: aliceblue;
+  margin-left: 20px;
+  font-size: 36px;
+}
+.moduleText {
+  margin-top: 20px;
+  font-size: 32px;
+}
+.ModuleText {
+  color: aliceblue;
+  margin-left: 30px;
+  margin-top: 10px;
+  font-size: 36px;
+}
+.ModuleText1 {
+  color: #adadad;
+  font-size: 24px;
+}
+.text1 {
+  color: aliceblue;
+}
