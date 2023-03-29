@@ -1,0 +1,12 @@
+#emm1 {
+    border-bottom: none;
+}
+#emm2 {
+    border-top: none;
+}
+.emm3 {
+    border: none;
+    margin-bottom: 1rem;
+    border-bottom: 1px solid #212529;
+    border-radius: 0;
+}

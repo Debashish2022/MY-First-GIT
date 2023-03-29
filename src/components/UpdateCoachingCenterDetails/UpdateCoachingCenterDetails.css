@@ -1,0 +1,72 @@
+#updateCenter1 {
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 500;
+    font-size: smaller;
+  }
+  
+  #updateCenter2 {
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 500;
+    font-size: small;
+  }
+  
+  #updateCenter3 {
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 500;
+    font-size: large;
+    color: #f05904;
+  }
+
+  #updateCenter8 thead tr {
+    background-color: #002333;
+  }
+  
+  #updateCenter8 thead tr th {
+    font-family: "Jost";
+    font-style: normal;
+    font-weight: 500;
+    font-size: small;
+    color: #ffffff;
+  }
+  
+  #updateCenter8 tbody tr td {
+    font-family: "Jost";
+    font-style: normal;
+    font-weight: 500;
+    font-size: small;
+    color: #002333;
+    margin-right: 0.6rem;
+  }
+  
+  #updateCenter8 {
+    overflow-x: auto;
+    white-space: nowrap;
+  }
+  
+  ::-webkit-scrollbar {
+    display: none;
+  }
+  
+  #updateCenter4 {
+    background-color: #f05904;
+    color: #ffffff;
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 500;
+    font-size: small;
+    margin-top: 2rem;
+    width: 100%;
+  }
+  
+  #updateCenter5 {
+      background-color: #FA4159;
+      color: #ffffff;
+      font-family: "Poppins";
+      font-style: normal;
+      font-weight: 500;
+      font-size: smaller;
+    }
+  

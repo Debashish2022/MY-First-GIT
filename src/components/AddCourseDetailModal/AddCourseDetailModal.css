@@ -1,0 +1,20 @@
+#acdm1 {
+    border-bottom: none;
+}
+#acdm2 {
+    border-top: none;
+}
+.acdm3 {
+    border: none;
+    margin-bottom: 1rem;
+    border-bottom: 1px solid #212529;
+    border-radius: 0;
+}
+#acdm4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#acdm5 {
+    padding: 0 0.5rem 0 0.5rem;
+}

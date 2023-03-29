@@ -1,0 +1,69 @@
+#whitediv {
+  background-color: white;
+  border-radius: 1.5rem;
+  margin-top: 2rem;
+  margin-bottom: 5rem;
+  padding-bottom: 3rem;
+}
+#wholediv {
+  background-color: #e1e1e1;
+  display: flex;
+}
+.body {
+  background-color: #e1e1e1;
+  display: flex;
+}
+#inputfield1 {
+  border-radius: 2rem;
+  border-color: #f05904;
+}
+#branchdetail {
+  font-size: 2.5rem;
+  font-weight: 400;
+  margin-top: 3rem;
+}
+#inputfieldrow {
+  margin-top: 2rem;
+  margin-bottom: 1.3rem;
+}
+#edittext {
+  color: #fa4159;
+  font-size: 0.9rem;
+}
+#deletetext {
+  color: #fa4159;
+}
+#staffnametext {
+  font-size: 1.2rem;
+  font-weight: 500;
+  margin-bottom: 1rem;
+  margin-top: 3rem;
+}
+#inputfieldcol {
+  margin-bottom: 1.5rem;
+}
+#branchtitle {
+  font-weight: 500;
+  font-size: 1rem;
+  margin-bottom: 1rem;
+}
+#branchuserdata {
+  margin-top: 0.7rem;
+  font-size: 0.85rem;
+}
+#breakdown {
+  overflow-wrap: break-word;
+}
+#branchuserdata2 {
+  font-weight: 500;
+  font-size: 1rem;
+  margin-bottom: 0.7rem;
+}
+#branchuserdata3 {
+  font-weight: 500;
+  font-size: 1rem;
+  margin-top: 2rem;
+}
+#editbutton{
+    margin-bottom: 0.4rem;
+}

@@ -1,0 +1,44 @@
+#dt1 {
+    padding: 1rem;
+    margin-top: 2rem;
+    border: 1px solid #c3c3c3;
+    box-shadow: 0px 4px 9px rgb(0 0 0 / 25%);
+    overflow-x: auto;
+    overflow-y: hidden;
+    white-space: nowrap;
+    font-family: 'Poppins';
+    font-style: normal;
+}
+#dt2 {
+    height: 2rem;
+    width: 5rem;
+}
+#dt3{
+    background-color: #F05904;
+    border: none;
+    width: 5rem;
+}
+#dt4{
+    background-color: #CCAB00;
+    border: none;
+    width: 5rem;
+}
+#dt5{
+    font-size:medium;
+}
+#dt6{
+    font-size:small;
+    font-weight: 500;
+}
+#dt7{
+    font-size:small;
+    font-weight: 500;
+    width: 5rem;
+}
+#dt8{
+    font-size: 2rem;
+}
+#dt9{
+padding-top: 1rem;
+}
+

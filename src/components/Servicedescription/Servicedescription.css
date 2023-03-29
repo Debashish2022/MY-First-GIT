@@ -1,0 +1,23 @@
+.servicedescription_main{
+    background-color: #EFE1C7;
+    padding: 1rem;
+    /* margin-top: 1rem; */
+    text-align: justify;
+    font-size: 1rem;
+    color: #03009e;
+    font-family: Jost;
+    font-weight: 300;
+    
+}
+/* span{
+    font-size: 2rem;
+    font-weight: 600 ;
+} */
+#sdsc1 {
+    float: right;
+    margin-top: 1rem;
+    box-shadow: 0 3px 6px #f44336, 0 3px 6px rgb(0 0 0 / 23%);
+    color: #FC3973;
+    height: 1.5em;
+    width: 1.5em;
+}

@@ -1,0 +1,41 @@
+#addCenterModal1 {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: smaller;
+}
+
+#addCenterModal2 {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: small;
+}
+
+#addCenterModal3 {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: large;
+  color: #f05904;
+}
+
+#addCenterModal4 {
+  background-color: #f05904;
+  color: #ffffff;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: small;
+  margin-top: 2rem;
+  width: 100%;
+}
+
+#addCenterModal5 {
+    background-color: #FA4159;
+    color: #ffffff;
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 500;
+    font-size: medium;
+  }

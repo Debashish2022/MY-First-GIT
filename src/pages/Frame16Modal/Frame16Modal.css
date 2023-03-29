@@ -1,0 +1,96 @@
+/* modal header */
+.modalHeaderUploadFiles {
+    background: linear-gradient(93.11deg, #FC3973 4.42%, #F05904 136.36%);
+    color: #fff;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    border-top-left-radius: 0.5rem;
+    border-top-right-radius: 0.5rem;
+    padding: 0.5rem 1rem;
+}
+
+.headerTitle {
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 1.5rem;
+}
+
+.closeBtn {
+    cursor: pointer;
+    font-size: 2.2rem;
+    font-weight: bold;
+    padding-top: 5px;
+}
+
+/* modal body */
+.modalBodyFrame16 {
+    padding: 1rem 1.5rem;
+}
+
+.fileNameDiv {
+    border: 1px solid #FC3973;
+    background-color: #fff;
+    border-radius: 1rem;
+    padding: 0.3rem 1rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 0.5rem;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+}
+
+.fileNameTxt {
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1rem;
+    color: #000000;
+}
+
+.uploadBtn {
+    padding-bottom: 0.1rem;
+    color: #FA4159;
+    cursor: pointer;
+}
+
+.uploadingTxt {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 0.6rem;
+    color: #000000;
+    margin-bottom: 0.5rem;
+}
+
+.addDescriptionDiv {
+    border: 1px solid #FC3973;
+    background-color: #fff;
+    border-radius: 1rem;
+    padding: 0.3rem 1rem;
+    color: #000000;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+}
+
+.AddBtnDiv {
+    width: 12rem;
+    height: 3rem;
+    background: linear-gradient(93.11deg, #FC3973 4.42%, #F05904 136.36%);
+    border-radius: 2rem;
+    padding: 0.3rem 1rem;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    margin-bottom: 2rem;
+    margin-right: 0.3rem;
+}
+
+.AddTxt {
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.3rem;
+    color: #FFFFFF;
+    text-align: center;
+}

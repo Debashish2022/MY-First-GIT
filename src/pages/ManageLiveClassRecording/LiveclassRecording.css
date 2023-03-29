@@ -1,0 +1,62 @@
+/* .body {
+    background-color: #e1e1e1;
+} */
+
+.whiteDiv {
+    background-color: #f8f9fa;
+    border-radius: 1.5rem;
+    margin: 1rem 0rem;
+}
+
+.liveClassTxt {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 2.2rem;
+    color: #000000;
+    margin-bottom: 1rem;
+    text-align: center;
+}
+
+.rows {
+    display: flex;
+    /* justify-content: center; */
+    /* text-align: center; */
+    margin-bottom: 0.3rem;
+}
+
+.bookIcon {
+    color: #FA4159;
+    font-size: 1.2rem;
+    /* margin-right: 0.5rem; */
+}
+
+.courseNameTxt {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1rem;
+    color: #000000;
+    margin-bottom: 0.2rem;
+    margin-right: 0.2rem;
+}
+
+.editTxt {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1rem;
+    color: #FA4159;
+    text-align: right;
+    margin-right: 0.5rem;
+}
+
+.downloadTxt {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1rem;
+    color: #FA4159;
+    text-align: right;
+    margin-right: 0.5rem;
+}

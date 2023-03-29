@@ -1,0 +1,31 @@
+ #header1 {
+    border-color: #FC3973;
+    border-radius: 2rem;
+    height: 2rem;
+ }
+ #header2 {
+    height: 2rem;
+    width: 2rem;
+    border-radius: 50%;
+    border: 2px solid #FA4159;
+ }
+ #header3 {
+    font-size: 0.8rem;
+    font-weight: 600;
+    color: black;
+ }
+ #header4 {
+    font-size: 0.5rem;
+    font-weight: 500;
+    color: black;
+ }
+ #linkh {
+   text-decoration: none;
+   color: black;
+}
+
+#logoutBtn {
+   background-color: #FA4159;
+   border: none;
+   margin-left: 1rem;
+}
