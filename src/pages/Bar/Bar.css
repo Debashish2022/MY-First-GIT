@@ -1,0 +1,72 @@
+#bar1 {
+  display: flex;
+  align-items: center;
+  color: black;
+  font-weight: 600;
+  font-family: "Poppins";
+}
+#bar1:active {
+  color: green;
+  background-color: ghostwhite;
+}
+
+#bar2 {
+  font-size: 1.5rem;
+}
+#bar4 {
+  width: 65%;
+}
+#bar3 {
+  background: white;
+  color: black;
+  height: 100%;
+  width: 175px;
+  min-width: 228px;
+  text-align: left;
+  -webkit-transition: width, left, right, 0.3s;
+  transition: width, left, right, 0.3s;
+  position: relative;
+  z-index: 1009;
+}
+#bar3.toggled {
+  width: 59px;
+  min-width: 44px;
+  display: block;
+}
+@media only screen and (max-width: 1400px) {
+  #bar3 {
+    width: 175px;
+    min-width: 220px;
+    position: relative;
+    z-index: 1009;
+  }
+  #bar3.toggled {
+    width: 59px;
+    min-width: 44px;
+  }
+}
+@media only screen and (max-width: 600px) {
+  #bar3 {
+    width: 50px;
+    min-width: 60px;
+    position: relative;
+    z-index: 1009;
+  }
+  #bar3.toggled {
+    width: 50;
+    min-width: 50px;
+  }
+}
+@media only screen and (max-width: 1200px) {
+  #bar3 {
+    width: 50px;
+    min-width: 50px;
+    position: relative;
+    z-index: 1009;
+  }
+  #bar3.toggled {
+    width: 50;
+    min-width: 50px;
+  }
+}
+

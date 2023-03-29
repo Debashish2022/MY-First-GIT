@@ -1,0 +1,40 @@
+#faq1{
+    margin-bottom: 2rem;
+}
+#faq2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    border: 1px solid black;
+    border-radius: 0.5rem;
+    cursor: pointer;
+}
+#faq3{
+    margin-bottom: 2rem;
+    width: 100%;
+}
+#faq4{
+    font-size: 1.3rem;
+}
+#faq5{
+    font-size: 2rem;
+    font-weight: 600;
+}
+#faq6{
+    font-size: 1.2rem;
+    font-weight: 600;
+}
+#faq7{
+    width: 100%;
+}
+#faq8{
+    margin-left: 1rem;
+}
+#faq9{
+    margin-bottom: 2rem;
+}
+#faq10{
+   padding-top: 0.6rem;
+}

@@ -1,0 +1,21 @@
+#dashboardcomp_main{
+    background-color: #fff;
+    border-radius: 1rem;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);-webkit-box-shadow:0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+}
+#dashboardcard_title{
+    font-family: poppins;
+    font-size: 1.4rem;
+    font-weight: 600;
+    color:#000;
+    padding-top: 2rem;
+    padding-left: 1rem;
+}
+#dashboard_count{
+    font-family: poppins;
+    font-weight: 500;
+    font-size: 2.4rem;
+    color: #5AA644;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}

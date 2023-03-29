@@ -1,0 +1,24 @@
+#fdbk1 {
+  font-size: 1.1rem;
+  font-weight: 500;
+}
+#fdbk2 {
+  font-size: 0.9rem;
+  font-weight: 400;
+  padding: 0.3rem 0 0.2rem 0;
+}
+#fdbk3 {
+  overflow-x: auto;
+  overflow-y: hidden;
+  white-space: nowrap;
+}
+p.page-link {
+  cursor: pointer;
+}
+#fdbk4{
+    margin-left: 1rem;
+}
+#fdbk5{
+  margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+}
