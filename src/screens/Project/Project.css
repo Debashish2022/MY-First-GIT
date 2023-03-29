@@ -1,0 +1,36 @@
+#project1{
+    padding: 0;
+    margin: 0;
+    object-fit: cover;
+}
+#project2{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    color: #DFB946;
+    font-family: "Raleway";
+    font-weight: "500";
+    text-align: center;
+    font-size: 2rem;
+    margin-top: 2rem;
+    margin-bottom: 1.5rem;
+}
+#project3{
+   margin-top: .8rem;
+   font-family: Raleway;
+   font-weight: 500;
+   font-size: large;
+   cursor: pointer;
+}
+
+.toggle--button {
+   
+    color: black;
+    padding-left: .2rem;
+}
+.toggle--close {
+    background-color: #DFB946;
+    color: #fff;
+    
+    transition: all .5s ease-in-out;
+}
