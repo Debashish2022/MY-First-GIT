@@ -1,0 +1,104 @@
+#lab1 {
+  background-color: #058359;
+  padding: 1rem;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+#lab2 {
+  border: 1px solid white;
+  border-radius: 0.5rem;
+  padding: 2rem;
+}
+#lab3 {
+  text-align: center;
+  font-family: "Exo";
+  font-weight: 700;
+  font-size: 2.5rem;
+  color: white;
+  margin-bottom: 3rem;
+  text-decoration: underline;
+}
+
+#lab4 {
+  /* background: transparent; */
+  color: #000;
+  padding-top: 0.8rem;
+  padding-bottom: 0.8rem;
+  border: 1px solid white;
+}
+#lab4::placeholder {
+  color: #000;
+  font-weight: 400;
+}
+#lab5 {
+  width: 100%;
+  padding-top: 0.4rem;
+  padding-bottom: 0.4rem;
+  font-family: "Exo";
+}
+#lab6 {
+  color: white;
+  font-weight: 600;
+  font-family: "Exo";
+}
+
+#errorTxtLabReg {
+  font-size: 0.8rem;
+  color: yellow;
+}
+#lab6 {
+  width: 100%;
+  padding-top: 0.9rem;
+  padding-bottom: 0.9rem;
+}
+#lab7 {
+  margin-top: 1rem;
+}
+#lab8 {
+  text-align: center;
+  margin-top: 3rem;
+  margin-bottom: 2rem;
+}
+#lab9 {
+  margin-bottom: 0.8rem;
+}
+#lab14 {
+  border: 1px solid white;
+  background-color: #fff;
+  color: white;
+  border-radius: 0.3rem;
+  display: flex;
+  justify-content: center;
+  padding-top: 0.6rem;
+  padding-bottom: 0.6rem;
+}
+#lab15 {
+  font-size: 2rem;
+  color: black;
+}
+#timeAndDayTxt {
+  color: #fff;
+}
+#lab16 {
+  position: relative;
+}
+#lab17 {
+  position: absolute;
+  width: 5rem;
+  color: #000;
+  padding-top: 0.85rem;
+  padding-bottom: 0.85rem;
+  border: none;
+  background-color: #f2f2f2;
+}
+#lab18 {
+  color: #000;
+  padding-top: 0.8rem;
+  padding-bottom: 0.8rem;
+  border: 1px solid white;
+  padding-left: 5.2rem;
+}
+#lab18::placeholder {
+  color: #000;
+  font-weight: 400;
+}

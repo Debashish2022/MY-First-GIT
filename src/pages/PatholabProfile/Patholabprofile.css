@@ -1,0 +1,81 @@
+#patholabprofile3 {
+  color: #fff;
+  background-color: #038459;
+}
+#patholabprofile4 {
+  font-family: Exo;
+  font-weight: 700;
+  font-size: xxx-large;
+  color: #038459;
+  background-color: #fff;
+  border-radius: 4rem;
+  height: 5rem;
+  width: 5rem;
+  padding: 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#patholabprofile6 {
+  margin-top: 2rem;
+  padding: 1rem;
+}
+#patholabprofile7 {
+  background-color: #1e1e1e;
+  font-family: "exo";
+  font-weight: 700;
+  font-size: large;
+padding: 1rem;
+  color: #fff;
+  margin-top: 1rem;
+}
+#patholabprofile8 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+}
+#patholabprofile9{
+    font-family: "exo";
+    font-weight: 600;
+    font-size: x-large;
+    padding-left: 1rem;
+    padding-bottom: .5rem;
+    margin-top: .3rem;
+}
+#patholabprofile10{
+    font-size: medium;
+    font-family: "exo";
+    font-weight: 400;
+    padding-left: 1rem;
+    margin-top: .5rem;
+}
+#patholabprofile11{
+    padding: 1rem;
+}
+#patholabprofile12{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+#patholabprofile13{
+    width: 100%;
+    height: auto;
+    
+}
+#patholabprofile14{
+    gap: 1rem;
+    padding: 0rem 1rem 0rem 1rem;
+    margin-top: 2rem
+}
+#patholabprofile15{
+    font-family: "exo";
+    font-weight: 400;
+    font-size: medium;
+    text-align: justify;
+}
+#patholabprofile16{
+    font-size: large;
+    font-weight: 600;
+    
+}

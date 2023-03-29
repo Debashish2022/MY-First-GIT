@@ -1,0 +1,22 @@
+#addtest1{
+    margin-bottom: .5rem;
+    color: black;
+    font-size: 700;
+    font-size: 1rem;
+    font-family: Exo;
+}
+#addtest2{
+    background-color: #029967;
+    color: white;
+    width: 100%;
+    border: none;
+    margin-top: 2rem;
+    font-weight: 400;
+}
+#addtest3{
+    color: black;
+    font-weight: 600;
+    margin-top: 0.8rem;
+    margin-bottom: 0.2rem;
+    font-family: Exo;
+}

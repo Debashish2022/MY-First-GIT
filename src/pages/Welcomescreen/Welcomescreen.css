@@ -1,0 +1,119 @@
+/* #wel1 {
+    display: flex;
+    justify-content: center;
+}
+#wel2 {
+    text-align: center;
+    margin-top: 6rem;
+    padding: 3rem;
+    border: 1px solid black;
+    border-radius: 2rem;
+    margin-bottom: 2rem;
+    background-color: #058359;
+}
+#wel3{
+    width: 15%;
+    height: 15%;
+}
+#wel4{
+    color: white;
+    font-family: exo;
+    font-weight: 900;
+    font-size: 4rem;
+    margin-top: 2rem;
+    color: white;
+}
+#wel5{
+   border: 1px solid white;
+   background-color: transparent;
+   
+}
+#wel5::placeholder{
+    color: white;
+}
+#wel6{
+    width: 100%;
+    margin-bottom: 2rem;  
+}
+#wel7{
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+}
+#wel8{
+    font-size: 1.2rem;
+    margin-top: 1rem;
+    color: white;
+} */
+
+#welcome1 {
+    background-image: url("../../asset/bg.png");
+    /* background-color: green; */
+    padding: 2rem;
+    border-radius: 2rem;
+}
+#welcome3 {
+    height: 10rem;
+}
+#welcome2 {
+    font-size: 3rem;
+    font-weight: 800;
+    letter-spacing: 0.2rem;
+    color: white;
+    margin-bottom: 0.8rem;
+}
+#welcome4 {
+    width: 50%;
+    margin: auto;
+}
+@media only screen and (max-width: 600px) {
+    #welcome4 {
+        width: 100%;
+        margin: auto;
+    }
+}
+.welcome5 {
+    border: 1px solid white;
+    height: 3rem;
+}
+#welcome6 {
+    background-color: #1E1E1E;
+    padding: 2% 30% 2% 30%;
+    border: none;
+    margin-bottom: 1rem;
+}
+#welcome11 {
+    color: white;
+    font-size: 1rem;
+    font-weight: 500;
+    margin-bottom: 0.6rem;
+}
+#welcome7 {
+    color: white;
+    font-size: 1.2rem;
+    font-weight: 500;
+    margin-bottom: 0.6rem;
+}
+#welcome8 {
+    margin-top: 4rem;
+    margin-bottom: 2rem;
+}
+.welcome10 {
+    border: 1px solid white;
+    height: 3rem;
+}
+#welcome12 {
+    color: white;
+    text-decoration: none;
+}
+#welcome13{
+    background-color: #fff;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    border: none;
+    border-radius: 5px;
+    outline: none;
+    }
+    #welcome14{
+      margin: 12px;
+    }

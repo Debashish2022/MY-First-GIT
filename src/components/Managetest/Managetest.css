@@ -1,0 +1,99 @@
+#managetest_01 {
+  background-color: #029967;
+  color: rgb(255, 255, 255);
+  font-family: exo;
+  font-weight: 400;
+  padding: 0.5rem;
+  border: none;
+}
+
+input::-webkit-calendar-picker-indicator {
+  color: white;
+  background-color: white;
+  border-radius: 2px;
+}
+input::-webkit-inner-spin-button,
+input::-webkit-clear-button {
+  display: none;
+}
+
+input::-webkit-calendar-picker-indicator {
+  color: rgb(255, 255, 255);
+}
+
+input::-webkit-calendar-picker-indicator:hover {
+  background: transparent;
+  cursor: pointer;
+}
+#managetest_02 {
+  font-family: exo;
+  font-size: 1.2rem;
+  font-weight: 400;
+  margin-right: 1rem;
+  color: black;
+}
+#managetest_03 {
+  font-family: exo;
+  font-weight: 500;
+  font-size: 1.4rem;
+}
+
+#managetest_thead {
+  background-color: #029967;
+  color: white;
+  font-family: exo;
+  font-family: 1rem;
+  font-weight: 500;
+}
+
+td {
+  border: none;
+}
+th {
+  border: none;
+}
+tr {
+  border: none;
+}
+
+#managetest_send {
+  font-weight: 600;
+  color: #029967;
+  font-size: 0.9rem;
+  /* cursor: pointer;
+  font-weight: 600;
+  color: #029967;
+  /* cursor: pointer; */
+}
+#managetest_sendd {
+  font-weight: 600;
+  color: darkolivegreen;
+  font-size: 0.9rem;
+  cursor: pointer;
+}
+#managetest_tablemain {
+  overflow-x: auto;
+  overflow-y: hidden;
+  white-space: nowrap;
+}
+#mt1 {
+  display: flex;
+  justify-content: center;
+}
+#mt2 {
+  font-size: 1.5rem;
+  font-weight: 500;
+  background-color: black;
+  color: #029967;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  padding: 0.3rem 2rem 0.3rem 2rem;
+  border-radius: 0.5rem;
+}
+
+#mt5 {
+  text-decoration: none;
+  font-weight: 600;
+  color: darkolivegreen;
+  font-size: 0.9rem;
+}
