@@ -1,0 +1,58 @@
+#waiting_01
+{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+
+#waiting_02
+{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    color: #029866;
+    font-family: exo;
+    font-size: 1rem;
+    font-weight: 500;
+}
+
+#waiting_03
+{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    font-family: exo;
+    font-weight: 700;
+    font-size: 2rem;
+    text-align: center;
+}
+
+#waiting_04
+{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    font-family: .7rem;
+    font-family: exo;
+    font-weight: 400;
+    color: #1e1e1e;
+    margin-top: 1.5rem;
+}
+
+#waiting_05{
+
+   
+    font-family: exo;
+    font-size: 1rem;
+    font-weight: 400;
+    margin-top: 1rem;
+    
+}
+#waiting_06{
+    background-color: #029866;
+    border: none;
+    padding: 1rem;
+    color: white;
+    border-radius: .5rem;
+}

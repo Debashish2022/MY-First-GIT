@@ -1,0 +1,153 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+#addSlotTxt {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: underline;
+  font-family: "Exo";
+  font-weight: 700;
+  font-size: 1.5rem;
+  color: #029967;
+  margin-top: 0.2rem;
+  margin-bottom: 1rem;
+}
+
+#addSlotDiv {
+  border-radius: 0.2rem;
+  border: 1px solid #029967;
+  padding: 0.6rem;
+  color: #029967;
+}
+
+#slotsAvailablity {
+  font-size: 1rem;
+  border: 1px solid #029967;
+  text-align: center;
+  border-radius: 0.2rem;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  cursor: pointer;
+  margin-right: 0.5rem;
+  color: #666666;
+}
+
+#allLabels {
+  font-size: 1rem;
+  font-weight: 400;
+}
+
+#addBtn {
+    color: #fff;
+    background-color: #029967;
+    width: 100%;
+    border: none;
+}
+#addBtn:hover{
+  background-color: #06cb8a;
+  border: none;
+}
+
+/* #slotDates {
+  font-size: 1rem;
+  color: #fff;
+  background-color: #029967;
+  text-align: center;
+  border-radius: 0.2rem;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  padding-left: 1rem;
+} */
+
+ 
+#patholabcomp2 {
+  background: #fff;
+  border-radius: 1rem;
+  padding: 2rem;
+  overflow-x: auto;
+  overflow-y: hidden;
+  white-space: nowrap;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+  -webkit-box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16),
+    0 3px 6px rgba(0, 0, 0, 0.23);
+    margin-top: 1rem;
+}
+/* #patholabcomp2::-webkit-scrollbar {
+  display: none;
+} */
+#patholabcomp3 {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 0.65rem;
+  color: #192a3e;
+  text-align: center;
+}
+#patholabcomp4 {
+  border: 0px;
+  padding-top: 0.7rem;
+}
+#patholabcomp5 {
+  border-radius: 1.5rem;
+  margin-right: 0.7rem;
+}
+#patholabcomp6 {
+  border: 0px;
+  padding-top: 1rem;
+}
+#starIcon {
+  color: #f3ba2f;
+  margin-right: 0.2rem;
+}
+#patholab7{
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 1.2rem;
+    margin-bottom: 0.6rem;
+
+}
+
+.react-datepicker__input-container input{
+  border: none;
+  color: #029967;
+  width: 100%;
+}
+
+#datechnge{
+  border: #029967 1px solid;
+  padding: .5rem;
+  border-radius: 3px;
+}
+#slotcalendericon{
+  font-size: 1.5rem;
+  color: #029967;
+  
+
+}
+
+.react-datepicker-ignore-onclickoutside{
+  border: none;
+  outline: none;
+}
+
+#slotaddslot{
+  border: none;
+}
+#slotaddslot:hover{
+  background-color: #06cb8a;
+  border: none;
+}
+
+
+@media only screen and (max-width: 600px) {
+  #slotcalendericon{
+    font-size: 1.5rem;
+    color: #029967;
+    margin-right: 1rem;
+  
+  }
+ 
+}

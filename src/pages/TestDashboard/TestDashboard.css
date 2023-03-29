@@ -1,0 +1,168 @@
+#labdetails1 {
+  display: flex;
+  background: #1e1e1e;
+  color: white;
+  padding: 1rem 0rem 1rem 10rem;
+}
+#labdetails2 {
+  font-size: 1.2rem;
+  font-weight: 500;
+  font-family: Exo;
+}
+#labdetails3 {
+  font-size: 0.6rem;
+  font-weight: 400;
+  font-family: Exo;
+}
+#labdetails4 {
+  display: flex;
+  margin-top: 2rem;
+  padding-left: 3rem;
+}
+#labdetails5 {
+  font-size: 1.2rem;
+  font-family: Exo;
+  font-weight: 400;
+  color: #029967;
+}
+#labdetails6 {
+  font-size: 0.8rem;
+  font-family: Exo;
+  margin-top: 0.3rem;
+}
+#labdetails7 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 1rem;
+}
+#labdetails8 {
+  margin-top: 2rem;
+  font-size: 1.1rem;
+  font-family: Exo;
+  font-weight: 400;
+  color: #029967;
+}
+#labdetails9 {
+  font-size: 0.9rem;
+  font-family: Exo;
+  padding: 0.5rem;
+  font-weight: 400;
+}
+#labdetails10 {
+  margin-top: 0.5rem;
+  font-size: 1.1rem;
+  font-family: Exo;
+  font-weight: 400;
+  color: #029967;
+}
+#labdetails11 {
+  display: flex;
+}
+#labdetails12 {
+  margin-top: 0.5rem;
+  /* overflow-x: auto;
+    overflow-y: hidden;
+    white-space: nowrap; */
+}
+#labdetails13 {
+  width: 100%;
+  margin: auto;
+  text-align: center;
+  padding: 0.3rem;
+  font-size: 1rem;
+  font-weight: 500;
+  font-family: Exo;
+}
+#availableTestsTxt {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: underline;
+  font-family: "Exo";
+  font-weight: 700;
+  font-size: 1.5rem;
+  color: #029967;
+  margin-top: 3rem;
+  margin-bottom: 1rem;
+}
+#labdetails14 {
+  width: 100%;
+  /* padding-top: 0.9rem;
+    padding-bottom: 0.9rem; */
+  font-family: "Exo";
+  background-color: #029967;
+  color: white;
+}
+#labdetails16 {
+  margin-bottom: 0.8rem;
+}
+#labdetails17 {
+  border-radius: 0.4rem;
+  display: flex;
+  justify-content: center;
+  padding-top: 0.15rem;
+  padding-bottom: 0.15rem;
+  border: 1px solid #ced4da;
+}
+#labdetails18 {
+  text-align: center;
+  margin-top: 1.3rem;
+}
+#labdetails19 {
+  width: 80%;
+}
+#labdetails20 {
+  border: 1px solid #029967;
+  text-align: center;
+  padding-top: 0.3rem;
+  padding-bottom: 0.3rem;
+  border-radius: 0.2rem;
+  cursor: pointer;
+}
+#labdetails21 {
+  margin-top: 0.7rem;
+  margin-bottom: 0.7rem;
+}
+#labdetails22 {
+  border: 1px solid #029967;
+  text-align: center;
+  padding-top: 0.3rem;
+  padding-bottom: 0.3rem;
+  cursor: pointer;
+  border-radius: 0.2rem;
+}
+#labdetails23 {
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+#labdetails24 {
+  margin-bottom: 0.8rem;
+}
+#labdetails25 {
+  overflow-x: auto;
+  overflow-y: hidden;
+  white-space: nowrap;
+  margin-top: 1rem;
+  margin-bottom: 4rem;
+}
+#labdetails26 {
+  width: 3rem;
+  border-radius: 50%;
+}
+#labdetails27 {
+  width: 5rem;
+}
+#labdetails28 {
+  vertical-align: middle;
+  word-wrap: break-word;
+}
+/* #labdetails29 {
+    width: "25rem";
+    display: block; 
+    text-align: justify;
+  } */
+
+#lab7 {
+  margin-top: 1rem;
+}

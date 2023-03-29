@@ -1,0 +1,17 @@
+#testmodaledit {
+    border-bottom: none;
+    border-top: none;
+}
+#testmodaledit2 {
+    color: black;
+}
+#testmodaledit3 {
+    font-weight: 500;
+    color: green;
+    padding-bottom: 2rem;
+    text-align: center;
+}
+#testmodaledit4 {
+    color: black;
+    margin-top: 1rem;
+}
