@@ -1,0 +1,12 @@
+#servicecomp3{
+    margin-top: 2rem;
+    width: 100%;
+    height:40vh;
+    }
+  
+    #servicecomp3:hover{
+        transform: scale(94%);
+        transition: 500ms ease-in;
+        transition:500ms ease-out ;
+        
+    }

@@ -1,0 +1,175 @@
+#logo {
+  width: 50%;
+}
+
+#navItems {
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 600;
+  font-size: small;
+  line-height: 0.8rem;
+  color: #000000;
+  text-decoration: none;
+}
+
+.navItemsJbs {
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 600;
+  font-size: small;
+  line-height: 0.8rem;
+  color: #B6B6B6;
+  text-decoration: none;
+}
+
+#navItemsLink {
+  margin-right: 0.5rem;
+}
+
+#navItemsLink :hover {
+  padding-bottom: 0.3rem;
+  border-bottom: 5px solid #ff5e14;
+  content: '';
+  transition: all 0.6s linear;
+}
+#Head1 {
+  position: relative;
+  /* display: inline-block; */
+}
+#Head1:hover  .dropdown-content{
+  display: block;
+  border:1px solid black ;
+  /* transition: border-bottom-width 0.4s ease,display 2s ease; */
+  transition: all 5s;
+}
+
+
+/* .dropdown-content a:hover {background-color: #ddd;} */
+#header13 {
+  width: 0;
+  height: 0;
+  border: 0.5rem solid transparent;
+  border-top: 0;
+  border-bottom: 0.5rem solid white;
+  margin-top: -0.5rem;
+  z-index: 1;
+  margin-left: 1.5rem;
+}
+#header15 {
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: white;
+}
+
+#header16 {
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: white;
+}
+#header17 {
+  font-size: 1rem;
+  color: white;
+  margin-top: 0.4rem;
+  margin-bottom: 0.4rem;
+  
+  margin-left: 0.3rem;
+  margin-right: 0.3rem;
+  padding-left: 0.7rem;
+}
+#header17:hover {
+  font-size: 1rem;
+  color: black;
+  margin-top: 0.4rem;
+  margin-bottom: 0.4rem;
+border-radius: 5px;
+
+transition: 200ms;
+  background-color: white;
+  margin-left: 0.3rem;
+  margin-right: 0.3rem;
+  padding-left: 0.7rem;
+}
+.dropdown-content {
+  display: none;
+  transition: all 1s;
+  position: absolute;
+  background-color: white;
+  min-width: 12rem;
+  z-index: 1;
+  margin-top: 0.4rem;
+  border-radius: 0.5rem;
+  color: black;
+}
+#dropdown-button-drop-start{
+  background: transparent;
+  border: none;
+  margin-left: -0.6rem;
+  color: #A80000;
+}
+
+.dropdown-menu show{
+  background-color: red;
+}
+.dropdown-toggle show btn btn-secoundary{
+  background-color: red;
+}
+.Header24{
+  text-decoration: none;
+  color: #A80000;
+}
+#Header25{
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 600;
+  font-size: small;
+  line-height: 0.8rem;
+  color: #000000;
+  text-decoration: none;
+  margin-top: 0.5rem;
+}
+#header1 {
+  height: 2.5rem;
+  background-color: #dfb946
+
+}
+
+@media only screen and (max-width: 870px) {
+  #header1 {
+    display: none;
+  }
+}
+#header2 {
+  color: white;
+  font-size: 0.8rem;
+  font-weight: 500;
+}
+#header21 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-left: 0.4rem;
+  margin-right: 0.9rem;
+}
+#header21:hover{
+  background-color: transparent;
+}
+#header22 {
+  margin-right: 0.5rem;
+  margin-top: -0.2rem;
+  font-size: 1rem;
+}
+#header23 {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+#header10 {
+  color: white;
+  text-decoration: none;
+}
+#header24 {
+  color: white;
+  text-decoration: none;
+  font-size: 0.85rem;
+}
+

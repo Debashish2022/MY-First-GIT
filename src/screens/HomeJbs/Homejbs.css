@@ -1,0 +1,330 @@
+.headingTextJbs {
+    color: rgb(182, 182, 182);
+    text-align: center;
+    font-size: 4rem;
+    letter-spacing: 3.5rem;
+    font-family: ui-rounded;
+    margin-bottom: 4rem;
+}
+.banner{
+    width: 100%;
+    height: 87vh;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center ;
+   position: relative;
+}
+
+.banner video {
+     position: absolute;
+     left: 0;
+     width: 100%;
+     height: 90vh;
+     object-fit: cover;
+    overflow: hidden;     
+}
+.banner h2 {
+    position: absolute;
+  top: -7rem;
+    left: 0;
+    width: 100%;
+    height: 107vh;
+    background: #fff;
+    font-size: 50vw;
+    text-align: center;
+    text-transform: uppercase;
+    color: #000;
+    line-height: 100vh;
+    mix-blend-mode: screen;
+}
+#Homejbs1{
+    color: #DC2227;
+    font-size: 3.2rem;
+    font-weight: 300;
+    display: flex;
+    letter-spacing: .2rem;
+    padding-left: .9rem;
+    margin-top: 1rem;
+}
+#Homejbs2{
+    background-color: #da7962;
+    color: white;
+    font-weight: 500;
+    font-size: 3rem;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    min-height: 26vh;
+    text-align: justify;
+    width: 100%;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    
+
+}
+#Homejbs3{
+   margin-top: 3rem;
+   margin-bottom: 3rem;
+}
+#Homejbs4{
+    height: 41vh;
+    width: 99%;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+/* #Homejbs5{
+    margin-bottom: 1.5rem;
+} */
+#Homejbs6{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#Homejbs7{
+    text-align: justify;
+    min-height: 26vh;
+    margin-top: 1rem;
+
+}
+#Homejbs8{
+    margin-top: 3rem;
+}
+#Homejbs9{
+    line-height: 4.4rem;
+
+}
+#Homejbs10{
+    width: 98%;
+    height: 18.5rem;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+    -webkit-box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16),
+      0 3px 6px rgba(0, 0, 0, 0.23);
+    padding: 0px;
+    background: #fff;
+   
+}
+#Homejbs11{
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+}
+#Homejbs12{
+    background-color: #da7962;
+    color: white;
+    font-weight: 500;
+    font-size: 3rem;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    min-height: 26vh;
+    text-align: justify;
+    width: 100%;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+#Homejbs13{
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#Homejbs15{
+    border: 0px;
+    border-radius: 0%;
+    background-color: #da7962;
+    /* margin-top: 1rem; */
+
+}
+#Homejbs15::-webkit-input-placeholder {
+    color: white;
+}
+#Homejbs16{
+    border:0px;
+    border-radius: 0%;  
+    /* margin-top: 1rem; */
+    background-color:#da7962;;
+}
+#Homejbs16::-webkit-input-placeholder {
+    color: white;
+}
+#Homejbs17{
+    border-radius: 0%;  
+    border: none;
+    /* margin-top: 1rem; */
+    background-color: #da7962;;
+}
+#Homejbs17::-webkit-input-placeholder {
+    color: white;
+}
+#Homejbs14{
+    background-color:#da7962;;
+    color: white;
+    border: 0px;
+    border-radius: 0px;
+}
+
+@media only screen and (max-width: 900px) {
+    .headingTextJbs {
+        color: rgb(182, 182, 182);
+        text-align: center;
+        font-size: 1.8rem;
+        letter-spacing: 1.5rem;
+        font-family: ui-rounded;
+        margin-bottom: 4rem;
+    }
+    .banner{
+        width: 100%;
+        height: 40vh;
+        overflow: hidden;
+        display: flex;
+        justify-content: center;
+        align-items: flex-start ;
+        position: relative;
+       
+    }
+    
+    .banner video {
+         position: absolute;
+         left: 0;
+         width: 100%;
+         height: 40vh;
+         object-fit: cover;
+         top: 4rem;
+         overflow: hidden;
+         
+    }
+    .banner h2 {
+        position: absolute;
+        top: -24rem;
+        left: 0;
+        width: 100%;
+        height: 80vh;
+        background: #fff;
+        font-size: 50vw;
+        text-align: center;
+        text-transform: uppercase;
+        color: #000;
+        line-height: 100vh;
+        mix-blend-mode: screen;
+    }
+    #Homejbs4{
+        height: 20vh;
+        width: 99%;
+        margin-top: 1rem;
+        margin-bottom: 1rem;
+    }
+  }
+
+  #logo1{
+    width: 5rem;
+ }
+ #logo2{
+    width: 50%;
+ }
+#logoimg{
+    width: 16rem;
+    margin-left: 1rem;
+}
+@media only screen and (max-width: 600px) {
+    .headingTextJbs {
+        color: rgb(182, 182, 182);
+        text-align: center;
+        font-size: 1.7rem;
+        letter-spacing: 1.3rem;
+        font-family: ui-rounded;
+        margin-bottom: 4rem;
+        padding-left: 0.8rem;
+    }
+    .banner{
+        width: 100%;
+        height: 40vh;
+        overflow: hidden;
+        display: flex;
+        justify-content: center;
+        align-items: flex-start ;
+        position: relative;
+       
+    }
+    #logoimg{
+        width: 9rem;
+        height: 1.7rem;
+        margin-left: 1rem;
+    }
+    
+    .banner video {
+         position: absolute;
+         left: 0;
+         width: 100%;
+         height: 40vh;
+         object-fit: cover;
+         top: 4rem;
+         
+    }
+    .banner h2 {
+        position: absolute;
+        top: -14rem;
+        left: 0;
+        width: 100%;
+        height: 80vh;
+        background: #fff;
+        font-size: 50vw;
+        text-align: center;
+        text-transform: uppercase;
+        color: #000;
+        line-height: 100vh;
+        mix-blend-mode: screen;
+    }
+    #Homejbs2{
+        margin-top: 0.4rem;
+    }
+    #Homejbs7{
+        margin-top: 1rem;
+    }
+    #Homejbs9{
+        margin-bottom: 1rem;
+    }
+    #Homejbs4{
+        height: 35vh;
+        width: 99%;
+        margin-top: 1rem;
+        margin-bottom: 1rem;
+    }
+  }
+
+  #navItems {
+    font-family: "Raleway";
+    font-style: normal;
+    font-weight: 600;
+    font-size: small;
+    line-height: 0.8rem;
+    color: #000000;
+    text-decoration: none;
+  }
+  
+  .navItemsJbs {
+    font-family: "Raleway";
+    font-style: normal;
+    font-weight: 600;
+    font-size: small;
+    line-height: 0.8rem;
+    color: #B6B6B6;
+    text-decoration: none;
+  }
+  
+  #navItemsLink {
+    margin-right: 0.5rem;
+  }
+ 
+    
+  #Homejbs4:hover {
+    box-shadow: 5px 6px 6px 2px #e9ecef;
+    transform: scale(1.1);
+  }
+  #Homejbs18{
+    object-fit: contain;
+  }

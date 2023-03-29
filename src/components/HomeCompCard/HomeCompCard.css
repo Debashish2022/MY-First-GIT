@@ -1,0 +1,41 @@
+#homecompcard1 {
+  border: 5px solid #dfb946;
+  margin-bottom: 2rem;
+  padding: 2.5rem 2rem 2.5rem 2rem;
+  width: 100%;
+  transition: all 0.2s ease;
+}
+
+#homecompcard1:hover {
+  border: 1px solid #dfb946;
+  margin-bottom: 2rem;
+  background-color: #f1f1f1;
+  /* padding: 3rem 2.5rem 3rem 2.5rem;
+  transform: scale(50px);
+  width: 100%; */
+  box-shadow: 5px 6px 6px 2px #e9ecef;
+  transform: scale(1.1);
+}
+
+
+
+#homecompcard2 {
+  width: 3rem;
+  height: 3rem;
+  margin-bottom: 1rem;
+}
+
+#homecompcard3 {
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 400;
+  font-size: large;
+  line-height: 1rem;
+  color: #000000;
+  text-align: center;
+}
+#homecompcard4 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
