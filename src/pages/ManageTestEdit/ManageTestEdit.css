@@ -1,0 +1,42 @@
+#testmodaledit {
+    border-bottom: none;
+    border-top: none;
+}
+#testmodaledit2 {
+    color: black;
+}
+#testmodaledit3 {
+    font-weight: 500;
+    color: green;
+    padding-bottom: 2rem;
+    text-align: center;
+}
+#testmodaledit4 {
+    color: black;
+    margin-top: 1rem;
+}
+
+#testeditmodal5 {
+    background: green;
+    border: none;
+    width: 30%;
+    font-weight: 500;
+}
+
+#testeditmodal6 {
+    /* width: 50%; */
+    width: 13rem;
+    border: none;
+    color: green;
+    font-weight: 500;
+}
+#edittestmodal7 {
+    display: flex;
+    justify-content: center;
+}
+#edittestmodal8 {
+    background: transparent;
+    color: green;
+    border: none;
+    font-weight: 600;
+}

@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.46743a8b.css",
+    "main.js": "/static/js/main.5307b378.js",
+    "static/js/787.2e634387.chunk.js": "/static/js/787.2e634387.chunk.js",
+    "static/media/bg.png": "/static/media/bg.063affe28a3fb47b97f9.png",
+    "static/media/logobg.png": "/static/media/logobg.dbceacae8cfee103b22b.png",
+    "static/media/hourglass.gif": "/static/media/hourglass.9d03d3b4b56dea158759.gif",
+    "static/media/novalogo.png": "/static/media/novalogo.ad6ee980d39ba9254149.png",
+    "index.html": "/index.html",
+    "main.46743a8b.css.map": "/static/css/main.46743a8b.css.map",
+    "main.5307b378.js.map": "/static/js/main.5307b378.js.map",
+    "787.2e634387.chunk.js.map": "/static/js/787.2e634387.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46743a8b.css",
+    "static/js/main.5307b378.js"
+  ]
+}
