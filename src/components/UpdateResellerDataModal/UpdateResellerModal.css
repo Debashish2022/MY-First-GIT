@@ -1,0 +1,39 @@
+#UpdateReseller1{
+    border-radius: 1rem;
+}
+#UpdateReseller2{
+    margin-top: 0.9rem;
+}
+#UpdateReseller3{
+    margin-top: 1.5rem;
+    height: 2.7rem;
+    background-color: rgb(25 118 210);
+}
+#UpdateReseller4{
+    margin-bottom: 1rem;
+    cursor: pointer;
+    display: flex;
+    justify-content: flex-end;
+}
+#containerUpdateReseller {
+    background-color: rgba(0, 0, 0, 0.5);
+    opacity: 0.9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    z-index: -1;
+}
+
+#boxContainerUpdateReseller {
+    border-radius: 0.1rem;
+    z-index: 1;
+}
+
+#updateResellerTxt {
+    font-weight: 600;
+    font-size: 1.3rem;
+    margin-bottom: 0.6rem;
+    margin-left: 0.5rem;
+    color: rgb(25 118 210);
+}
