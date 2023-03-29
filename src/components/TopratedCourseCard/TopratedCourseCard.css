@@ -1,0 +1,69 @@
+#tcc1 {
+    background: #F8F9FE;
+    border: 1px solid #DEDEDE;
+    box-shadow: 0px 4px 10px rgb(0 0 0 / 25%);
+    border-radius: 1rem;
+    padding: 1rem;
+    margin-right: .5rem;
+    margin-left: .5rem;
+    position: relative;
+}
+#tcc2 {
+    font-weight: 600;
+    font-family: 'Poppins';
+    text-align: justify;
+    margin: 0.5rem 0 0.5rem 0;
+    display: flex;
+    justify-content: space-between;
+    /* position: relative; */
+}
+#tcc3 {
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+#tcc4 {
+    font-size: 0.6rem;
+    font-weight: 500;
+    margin: 0 0 0.5rem 0;
+}
+#tcc5 {
+    margin: 0.5rem 1rem 2rem 0;
+    font-family: Poppins;
+    font-size: 1rem;
+    font-weight: 400;
+}
+#tcc6 {
+    text-decoration: none;
+    color: initial;
+}
+#tcc7{
+    width: 2rem;
+    height: 2rem;
+    background-color: red;
+    border-radius: 3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    right: -1.8rem;
+    top: -1.7rem;
+}
+#tcc8{
+    color: white;
+}
+#tcc9{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 2rem;
+    height: 2rem;
+    position: absolute;
+    left: 0;
+    top: .1rem;
+}
+#tcc10{
+    height: 2rem;
+    width: 2rem;
+    margin-top: -0.28rem;
+}

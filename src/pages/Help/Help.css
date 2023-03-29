@@ -1,0 +1,42 @@
+#help1 {
+  border: 2rem;
+  /* background-color: #343434; */
+  color: #ffffff;
+  padding: 0.6rem;
+  margin-top: 2rem;
+  font-family: "Poppins";
+  font-style: normal;
+  text-align: center;
+  cursor: pointer;
+}
+#help2 {
+  /* background-color: #F05904; */
+  border: 2rem;
+  color: #ffffff;
+  padding: 0.6rem;
+  margin-top: 2rem;
+  font-family: "Poppins";
+  font-style: normal;
+  text-align: center;
+  cursor: pointer;
+}
+#help3 {
+  color: #f05904;
+  margin-top: 2rem;
+}
+#help4 {
+  color: #f05904;
+  margin-top: 3rem;
+}
+#help5 {
+  margin-top: 2rem;
+}
+#help6 {
+  background-color: #f05904;
+  border: none;
+}
+#help7 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

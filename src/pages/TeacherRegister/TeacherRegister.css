@@ -1,0 +1,152 @@
+#register1 {
+  width: 100%;
+  background-color: #f05904;
+  border: none;
+  border-radius: 0.3rem;
+  margin-bottom: 1rem;
+}
+#register2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 5rem;
+  margin-top: 1rem;
+}
+#register3 {
+  margin-left: 0.3rem;
+  font-weight: 600;
+  cursor: pointer;
+}
+#register4 {
+  border: 1px solid black;
+  color: #fb7d43;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 0.3rem;
+  padding-top: 0.4rem;
+  padding-bottom: 0.4rem;
+  cursor: pointer;
+  width: 100%;
+}
+#register5 {
+  padding-top: 0.6rem;
+  padding-bottom: 0.6rem;
+  border-color: black;
+}
+#register5::placeholder {
+  opacity: 1;
+}
+#register6 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#register7 {
+  color: #fa814a;
+  /* font-family: "Poppins"; */
+  font-style: normal;
+  font-weight: 600;
+  font-size: 2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#register8{
+    font-weight: 700;
+}
+#register9{
+    border: 1px solid black;
+    margin-top: -1rem;
+} 
+#register10{
+    margin-top: 1.5rem;
+    margin-bottom: 1rem;
+}
+@media only screen and (max-width: 900px) {
+    #register10{
+        margin-top: 1rem;
+        margin-bottom: 1rem;
+    }
+  }
+  @media only screen and (max-width: 600px) {
+    #register10{
+        margin-top: 0.2rem;
+        margin-bottom: 1.5rem;
+    }
+  }
+  #register11{
+    margin-top: 1rem;
+  }
+#register12{ 
+        border: 1px solid black;
+        margin-top: -1rem;
+        padding-top: 0.6rem;
+        padding-bottom: 0.6rem;
+        padding-left: 0.9rem;
+}
+#register13 {
+  background-color: #fff;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  position: relative;
+  outline: none;
+  /* margin-top: 2.5rem; */
+}
+#register14 {
+  position: absolute;
+  left: 1rem;
+  top: 0.55rem;
+  color: black;
+}
+#register15 {
+  border-radius: 0.3rem;
+  border: 1px solid black;
+  padding-left: 3.2rem;
+  padding-top: 0.6rem;
+    padding-bottom: 0.6rem;
+}
+#register16{
+  padding-right: 0.48rem;
+}
+#register17{
+  padding-right: 0.5rem;
+}
+#register18{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 1.5rem;
+  margin-top: 2.5rem;
+}
+#register19{
+  width: 80%;
+}
+@media only screen and (max-width: 600px) {
+  #register4 {
+   margin-top: 0.2rem;
+  }
+  #register8{
+    margin-bottom: 0.5rem;
+  }
+  #register6 {
+    margin-top: 0.5rem;
+  }
+}
+#register20{
+  background-color: #f05904;
+  border: none;
+}
+#register21{
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  text-align: start;
+}
+#register22{
+  background-color: #f05904;
+  border: none;
+  padding-top: 0.6rem;
+    padding-bottom: 0.6rem;
+}

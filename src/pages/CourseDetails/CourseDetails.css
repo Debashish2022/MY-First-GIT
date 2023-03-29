@@ -1,0 +1,150 @@
+#cd1 {
+    border-bottom: 1px solid #000000;
+    width: 100%;
+}
+#cd2 {
+    border-bottom: 1px solid #000000;
+    /* margin-left: 1rem; */
+}
+#cd3 {
+    display: flex;
+    justify-content: center;
+}
+#cd4 {
+    width: 100%;
+    background: black;
+    border-radius: 0.3rem;
+    border: none;
+}
+#cd5 {
+    display: flex;
+    align-items: end;
+}
+.cd6 {
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 1px solid #000000;
+    border-radius: 0;
+}
+
+@media only screen and (max-width: 600px) {
+    #cd1 {
+        border-bottom: 1px solid #000000;
+        margin-bottom: 1rem;
+    }
+    #cd2 {
+        border-bottom: 1px solid #000000;
+        margin-bottom: 1rem;
+    }
+    .cd6 {
+        border-top: none;
+        border-left: none;
+        border-right: none;
+        border-bottom: 1px solid #000000;
+        border-radius: 0;
+        margin-bottom: 1rem;
+    }
+  }
+  #cd7 {
+    margin: 2rem 0 1rem 0;
+    font-size: 1.1rem;
+    font-weight: 500;
+    color: #F05904;
+  }
+  #cd8 {
+    overflow-x: auto;
+  overflow-y: hidden;
+  white-space: nowrap;
+  }
+  #cd9 {
+    margin-top: 5rem;
+  }
+  #cd10 {
+    width: 100%;
+    border-radius: 0.5rem;
+  }
+  #cd11 {
+    margin: 1rem 0 1rem 0;
+    font-weight: 500;
+    border: 1px solid #000000;
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+  }
+  #cd12 {
+    width: 100%;
+    margin-bottom: 1rem;
+    background: #002333;
+    border: none;
+    font-weight: 600;
+  }
+  .cd13 {
+    border: none;
+    width: 100%;
+    padding-left: 0;
+  }
+  #cd14{
+    background-color: black;
+    color: white;
+  }
+  #cd15{
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+  }
+  #cd16{
+    width: 5rem;
+  }
+  #cd17{
+    font-size: 1.2rem;
+    margin-top: -0.3rem;
+  }
+  #cd18{
+    text-align: center;
+    cursor: pointer;
+  }
+  #cd19{
+    background-color: orangered;
+    border-radius: 1rem;
+    cursor: pointer;
+  }
+  #cd19:hover{
+    background-color: green;
+    border-radius: 2rem;
+    cursor: pointer;
+  }
+  #cd20{
+    padding-left: .3rem;
+  }
+  #cd21{
+    width: 2rem;
+    padding-left: .3rem;
+  }
+  #cd22{
+    font-size: 1.3rem;
+  }
+  #cd23 {
+    border: none;
+    border-bottom: 1px solid #000000;
+    border-radius: 0px;
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 500;
+    font-size: small;
+    line-height: 1.2rem;
+    color: #002333;
+  }
+  #cd24 {
+    background-color: #002333;
+    border-radius: 5px;
+    width: 100%;
+  }
+  
+  #cd25 {
+    border-radius: 5px;
+    width: 100%;
+  }
+  #cd26{
+    cursor: pointer;
+  }
+  
