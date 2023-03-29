@@ -1,0 +1,59 @@
+#account1 {
+    display: flex;
+    position: relative;
+}
+#account2 {
+    position: absolute;
+    right: 0;
+}
+#account3 {
+    font-weight: 600;
+    font-size: 1.5rem;
+}
+#account4 {
+    color: black;
+    font-size: 1.5rem;
+    background: linear-gradient(151.04deg, #FFFFFF -77.55%, #E8E8E8 171.1%);
+    box-shadow: 0px 2px 3px rgb(0 0 0 / 25%);
+}
+#account5 {
+    margin-left: 1rem;
+    background-color:#454545;
+    color:white;
+}
+#account6 {
+    margin-top: 1rem;
+    margin-bottom: 1.5rem;
+}
+#account7 {
+    border: 1px solid #BCBCBC;
+    box-shadow: 0px 4px 4px rgb(0 0 0 / 25%);
+    border-radius: 0.3rem;
+    padding: 1rem;
+}
+#account8{
+    background-color: #1976D2;
+    color: white;
+}
+#account9{
+    margin-left: 1rem;
+    background-color: #1976D2;
+    color:white;
+}
+#account10{
+    background-color:#454545;
+    color:white;
+}
+#account13{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+#account14{
+    background-color: red;
+    border-radius: 0.6rem;
+    text-align: center;
+    color: white;
+    padding: 0.2rem;
+    width: 6rem;
+}

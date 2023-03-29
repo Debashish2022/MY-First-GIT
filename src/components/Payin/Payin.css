@@ -1,0 +1,238 @@
+#payin1 {
+  color: #fc00f2;
+  font-size: 1.7rem;
+}
+#payin2 {
+  color: #388e3c;
+  font-weight: bold;
+}
+#payin3 {
+  border-radius: 0.3rem;
+  height: 1.7rem;
+  font-size: 0.8rem;
+  width: 5rem;
+}
+#payin4 {
+  font-weight: bold;
+  font-size: 1.05rem;
+}
+#payin5 {
+  margin: 3.8rem 1rem 1rem 1rem;
+  width: 96%;
+  box-shadow: 2px 2px 2px 2px rgba(0.5, 0.5, 0.5, 0.5);
+}
+#payin6 {
+  padding-left: 4.7rem;
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+}
+#payin7 {
+  width: 12.5rem;
+}
+#payin8 {
+  border-radius: 0.3rem;
+  height: 1.7rem;
+  font-size: 0.8rem;
+  width: 7rem;
+}
+#payin9 {
+  border: 1px solid;
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+  border-radius: 1rem;
+  color: green;
+  text-align: center;
+  font-size: 0.9rem;
+  margin-top: 0.3rem;
+}
+@media only screen and (max-width: 700px) {
+  #payin5 {
+    margin: 3.8rem 1rem 1rem 1rem;
+    width: 92%;
+  }
+  #payin7 {
+    width: 13.8rem;
+  }
+  #payin6 {
+    padding-left: 4rem;
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+  }
+}
+@media only screen and (min-width: 820px) {
+  #payin5 {
+    margin: 3.8rem 1rem 1rem 1rem;
+    width: 100%;
+  }
+  #payin7 {
+    width: 14rem;
+  }
+}
+#payin10 {
+  overflow-x: auto;
+  overflow-y: hidden;
+  white-space: nowrap;
+}
+#payin11 {
+  text-align: center;
+  font-weight: bold;
+  margin-top: 6rem;
+  margin-bottom: 3rem;
+  min-height: 50vh;
+}
+#payin13 {
+  border: 1px solid #bcbcbc;
+  box-shadow: 0px 4px 4px rgb(0 0 0 / 25%);
+  padding: 1.2rem;
+  border-radius: 0.5rem;
+  margin-top: 1rem;
+}
+#payin15 {
+  padding-left: 1rem;
+  padding-right: 1rem;
+  margin-top: 2rem;
+  padding-bottom: 3rem;
+}
+#payin16 {
+  background-color: green;
+  font-size: 13px;
+  color: #fff;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 3px;
+  padding-left: 0.3rem;
+  padding-right: 0.3rem;
+  text-align: center;
+}
+#payin17 {
+  color: #bcbcbc;
+  font-weight: 300;
+}
+#payin18 {
+  color: #000000;
+  display: flex;
+  align-items: center;
+}
+#payin19 {
+  font-size: 2rem;
+  color: purple;
+  font-weight: 500;
+}
+#payin20 {
+  display: flex;
+  align-items: center;
+  color: #bcbcbc;
+  font-weight: 300;
+}
+#payin21 {
+  border: 1px solid green;
+  padding-left: 0.2rem;
+  padding-right: 0.2rem;
+  color: white;
+  background-color: green;
+  border-radius: 0.2rem;
+  text-align: center;
+  font-size: 0.9rem;
+}
+#payin22 {
+  border: 1px solid blue;
+  padding-left: 0.2rem;
+  padding-right: 0.2rem;
+  color: white;
+  background-color: blue;
+  border-radius: 0.2rem;
+  text-align: center;
+  font-size: 0.9rem;
+}
+#payin23 {
+  border: 1px solid red;
+  padding-left: 0.2rem;
+  padding-right: 0.2rem;
+  color: white;
+  background-color: red;
+  border-radius: 0.2rem;
+  text-align: center;
+  font-size: 0.9rem;
+}
+#payin24 {
+  background-color: blue;
+  font-size: 13px;
+  color: #fff;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 3px;
+  padding-left: 0.3rem;
+  padding-right: 0.3rem;
+  text-align: center;
+}
+#payin25 {
+  background-color: red;
+  font-size: 13px;
+  color: #fff;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 3px;
+  padding-left: 0.3rem;
+  padding-right: 0.3rem;
+  text-align: center;
+}
+#payin26 {
+  border: 1px solid black;
+  margin-top: 2.7rem;
+  margin-bottom: 1.4rem;
+  padding-top: 0.5rem;
+  padding-bottom: 0.2rem;
+  padding-left: 0.3rem;
+  padding-right: 0.3rem;
+  border-radius: 2rem;
+  background-color: #0e065c;
+}
+#payin27 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+  transition: 0.6s cubic-bezier(0.68,-0.55,0.265,1.55);
+}
+#payin28 {
+  margin-top: -0.3rem;
+  font-size: 0.9rem;
+  border-radius: 5rem;
+  width: 10rem;
+  text-align: center;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+#payin29{
+  margin-top: -0.3rem;
+  font-size: 0.9rem;
+  border-radius: 5rem;
+  width: 10rem;
+  text-align: center;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  transition: 0.9s cubic-bezier(0.68,-0.55,0.265,1.55);
+  transform: translateY(0px);
+
+}
+#payin30{
+  border: 1px solid orangered;
+  padding-left: 0.2rem;
+  padding-right: 0.2rem;
+  color: white;
+  background-color: orangered;
+  border-radius: 0.2rem;
+  text-align: center;
+  font-size: 0.9rem;
+}
+#payin31{
+  background-color: orangered;
+  font-size: 13px;
+  color: #fff;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 3px;
+  padding-left: 0.3rem;
+  padding-right: 0.3rem;
+  text-align: center;
+}
