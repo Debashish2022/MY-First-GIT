@@ -1,0 +1,33 @@
+#coursesetup1{
+    background-color: #EFE1C7;
+    margin-top: 1rem;
+    border-radius: 10px;
+    padding: 2rem;
+}
+#coursesetup2{
+    font-family: poppins;
+    font-weight: 600;
+    font-size: large;
+    color: #8B7D76;
+    
+}
+#coursesetup3{
+    background-color: #002333;
+    margin-top: 1rem;
+    align-content: center;
+    justify-content: center;
+    display: flex;
+}
+#coursesetup4{
+    background-color: transparent;
+    border: #002333 1px solid;
+    border-radius: 5px;
+    margin-top: 1rem;
+    color: #002333;
+    align-content: center;
+    justify-content: center;
+    display: flex;
+}
+#coursesetup5{
+    color: blue;
+}

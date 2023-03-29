@@ -1,0 +1,15 @@
+#mac1 {
+    color: #8b7d76;
+  font-size: 1.5rem;
+  font-weight: 500;
+  margin: 1.5rem 0 3rem 0;
+}
+#mac2{
+   margin: 1.5rem 0 3rem 0;
+  display: flex;
+  justify-content: end;
+  align-items: center;
+}
+#mac3{
+  cursor: pointer;
+}

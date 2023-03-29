@@ -1,0 +1,24 @@
+#editnewcourse1{
+    border-radius: 2rem;
+}
+#editnewcourse2{
+    width: 100%;
+    min-width: 8rem;
+}
+#editnewcourse3{
+    border-radius: 2rem;
+    width: 100%;
+}
+#editnewcourse4{
+    cursor: pointer;
+    font-size: 1.5rem;
+}
+#editnewcourse5{
+    width: 15rem;
+    height: 25vh;
+    border-radius: 1rem;
+}
+#editnewcourse6{
+    display: flex;
+    justify-content: center;
+}
