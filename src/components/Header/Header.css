@@ -1,0 +1,86 @@
+#header1 {
+  position: relative;
+}
+#header2 {
+  color: white;
+  font-size: 0.8rem;
+}
+#header3 {
+  color: white;
+  background-color: transparent;
+  border: none;
+  width: 12%;
+}
+#header4 {
+  margin-right: 1rem;
+}
+#header5 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-image: url("../../asset/logobg.png");
+}
+@media only screen and (max-width: 768px) {
+  #header5 {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    background-image: url("../../asset/logobg.png");
+  }
+}
+#header6 {
+  width: 50%;
+  height: 50%;
+}
+#header7 {
+  color: white;
+  font-size: 0.9rem;
+  font-weight: 500;
+  text-transform: uppercase;
+  margin-right: 2rem;
+}
+@media only screen and (max-width: 768px) {
+  #header7 {
+    color: black;
+  }
+}
+#header8 {
+  background-color: white;
+  border-radius: 0.2rem;
+}
+#header9 {
+  text-decoration: none;
+  color: white;
+}
+@media only screen and (max-width: 768px) {
+  #header9 {
+    color: black;
+  }
+}
+#header10 {
+  color: white;
+  text-decoration: none;
+}
+#header11 {
+  position: absolute;
+  right: 2rem;
+  font-size: 0.7rem;
+  font-weight: 600;
+}
+@media only screen and (max-width: 768px) {
+  #header11 {
+    position: absolute;
+    right: 0;
+    width: 40%;
+    font-size: 0.7rem;
+    font-weight: 600;
+  }
+}
+#header12 {
+  background-color: #029967;
+  color: white;
+  height: 1rem;
+  width: 1rem;
+  border-radius: 0.2rem;
+}

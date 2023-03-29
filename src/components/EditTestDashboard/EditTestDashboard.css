@@ -1,0 +1,147 @@
+#editlabtest1 {
+    display: flex;
+    background: #1E1E1E;
+    color: white;
+    padding: 1rem 0rem 1rem 10rem;
+}
+#editlabtest2 {
+    font-size: 1.2rem;
+    font-weight: 500;
+}
+#editlabtest3 {
+    font-size: 0.6rem;
+    font-weight: 400;
+}
+#editlabtest4 {
+    display: flex;
+    margin-top: 2rem;
+    padding-left: 3rem;
+}
+#editlabtest5 {
+    font-size: 1.2rem;
+    font-weight: 400;
+    color: #029967;
+}
+#editlabtest6 {
+    font-size: 0.8rem;
+    margin-top: 0.3rem;
+}
+#editlabtest7 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 1rem;
+}
+#editlabtest8 {
+    margin-top: 2rem;
+    font-size: 1.1rem;
+    font-weight: 400;
+    color: #029967;
+}
+#editlabtest9 {
+    font-size: 0.9rem;
+    padding: 0.5rem;
+    font-weight: 400;
+}
+#editlabtest10 {
+    margin-top: 0.5rem;
+    font-size: 1.1rem;
+    font-weight: 400;
+    color: #029967;
+}
+#editlabtest11 {
+    display: flex;
+}
+#editlabtest12 {
+    margin-top: 1rem;
+    /* overflow-x: auto;
+    overflow-y: hidden;
+    white-space: nowrap; */
+}
+#editlabtest13 {
+    width: 50%;
+    margin: auto;
+    text-align: center;
+}
+#editlabtest14 {
+    width: 100%;
+    /* padding-top: 0.9rem;
+    padding-bottom: 0.9rem; */
+    font-family: "Exo";
+    background-color: #029967;
+  color: white;
+  }
+  #editlabtest16{
+    margin-bottom: 0.8rem;
+  }
+  #editlabtest17 {
+    border-radius: 0.4rem;
+    display: flex;
+    justify-content: center;
+    padding-top: 0.15rem;
+    padding-bottom: 0.15rem;
+    border: 1px solid #ced4da;
+  }
+  #editlabtest18{
+    text-align: center;
+    margin-top: 1.3rem;
+  }
+  #editlabtest19{
+    width: 80%;
+  }
+  #editlabtest20{
+    border: 1px solid #029967;
+    text-align: center;
+    padding-top: 0.3rem;
+    padding-bottom: 0.3rem;
+    border-radius: 0.2rem;
+    cursor: pointer;
+  }
+  #editlabtest21{
+    margin-top: 0.7rem;
+    margin-bottom: 0.7rem;
+  }
+  #editlabtest22{
+    border: 1px solid #029967;
+    text-align: center;
+    padding-top: 0.3rem;
+    padding-bottom: 0.3rem;
+    cursor: pointer;
+    border-radius: 0.2rem;
+  }
+  #editlabtest23{
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+  }
+  .editlabs24{
+    margin-bottom: 0.8rem;
+  }
+  #editlabtest25 {
+    overflow-x: auto;
+  overflow-y: hidden;
+  white-space: nowrap;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  }
+  #editlabtest26 {
+    width: 3rem;
+    border-radius: 50%;
+  }
+  #editlabtest27 {
+    width: 5rem;
+  }
+  #editlabtest28 {
+    vertical-align: middle;
+    word-wrap: break-word;
+  }
+  /* #editlabtest29 {
+    width: "25rem";
+    display: block; 
+    text-align: justify;
+  } */
+  
+  #lab7 {
+  margin-top: 1rem;
+}
+
+  

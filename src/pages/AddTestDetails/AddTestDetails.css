@@ -1,0 +1,118 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+#addtest_01 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#addTestPanelTxt {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: underline;
+  font-family: "Exo";
+  font-weight: 700;
+  font-size: 1.5rem;
+  color: #029967;
+  margin-top: 0.2rem;
+  margin-bottom: 1rem;
+}
+
+#addTestTitleDiv {
+  border-radius: 0px;
+  border: 1px solid #029967;
+  padding: 0.6rem;
+  color: #029967;
+}
+
+#uploadTestImgTxt {
+  font-family: "Exo";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1rem;
+  line-height: 1rem;
+  color: #1e1e1e;
+  margin: 0px;
+}
+
+#fileChooseDiv {
+  background-color: #94c0dc;
+  height: 3rem;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#myfile {
+  display: none;
+}
+
+#details1 {
+  text-align: center;
+}
+
+#noPreparationTxt {
+  border: 1px solid #029967;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "Exo";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1rem;
+  color: #029967;
+  padding-top: 0.5rem;
+  padding-bottom: 0.7rem;
+  cursor: pointer;
+}
+
+#bloodCoughUrineOthersBtn {
+  margin: 0;
+  border: 1px solid #029967;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0.6rem 0rem;
+  cursor: pointer;
+}
+
+#addBtnGreen {
+  margin: 0;
+  background-color: #029967;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0.7rem;
+  cursor: pointer;
+  color: #fff;
+}
+
+#descriptionBox {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border: 1px solid #029967;
+  font-family: "Exo";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1rem;
+  color: #029967;
+}
+
+#descriptionBox:focus-within {
+  outline: none !important;
+  border: 3px solid #029967 !important;
+}
+
+#addBtnBlack {
+  padding-top: 0.6rem;
+  padding-bottom: 0.6rem;
+  border-radius: 0px;
+}
+#errorTxt {
+  color: red;
+}
