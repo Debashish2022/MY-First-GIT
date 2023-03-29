@@ -1,0 +1,86 @@
+#loginwholediv {
+  margin: auto;
+  width: 73%;
+  margin-top: 1.4rem;
+  border: 4px solid #343434;
+  border-top-left-radius: 1.6rem;
+  border-top-right-radius: 1.6rem;
+  margin-bottom: 2rem;
+}
+#loginrow {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #ef5904;
+}
+#loginheader {
+  background-color: #343434;
+  border-top-left-radius: 1.2rem;
+  border-top-right-radius: 1.2rem;
+  border: 1px solid #343434;
+  color: #343434;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+}
+#usernamediv {
+  background-color: #f05904;
+  border-radius: 0.5rem;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+  padding-top: 0.4rem;
+  margin-top: 3rem;
+}
+#usernametext {
+  color: #343434;
+  font-size: 1.2rem;
+  font-weight: 700;
+}
+#passworddiv {
+  background-color: #f05904;
+  border-radius: 0.5rem;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+  padding-top: 0.4rem;
+  margin-top: 3rem;
+}
+#usericonrow {
+  align-items: center;
+}
+#buttondiv {
+  background-color: #343434;
+  border-radius: 0.5rem;
+  text-align: center;
+  display: block;
+  color: #fff;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  margin-top: 2rem;
+  margin-bottom: 3.5rem;
+}
+#logo {
+  width: 326px;
+  height: 88px;
+}
+#logoMain {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 0.7rem;
+}
+#login5 {
+  background-color: #fff;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  border: none;
+  border-radius: 5px;
+  outline: none;
+}
+#login6 {
+  margin: 9px;
+}
+#login7{
+  border: none;
+}

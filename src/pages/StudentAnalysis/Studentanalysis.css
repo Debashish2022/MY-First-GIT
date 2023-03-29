@@ -1,0 +1,88 @@
+.StudentActiveText {
+  font-size: 1.2rem;
+  margin-left: 0.5rem;
+  margin-bottom: 1rem;
+  font-weight: 500;
+}
+.StudentImage {
+  width: 300px;
+  height: 250px;
+  margin-top: 10;
+}
+.ChartImage {
+  width: 700px;
+  height: 250px;
+  margin-top: 10;
+  margin-bottom: 20;
+}
+.ExamResultDiv {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  height: min-content;
+  background-color: black;
+  margin-top: 1vw;
+  padding: 20px;
+  margin-bottom: 5px;
+  border-radius: 10px;
+}
+.ExamResultDiv3 {
+  height: min-content;
+  background-color: black;
+  margin-top: 1vw;
+  padding: 20px;
+  margin-bottom: 5px;
+  border-radius: 10px;
+}
+.modulemaindiv {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+}
+.progressText {
+  font-size: 32px;
+}
+.ExamResultDiv1 {
+  display: flex;
+
+  height: min-content;
+  background-color: black;
+  margin-top: 1vw;
+  padding: 20px;
+  margin-bottom: 5px;
+  border-radius: 10px;
+}
+.ExamResultDiv2 {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+}
+
+.text {
+  margin-top: 20px;
+  color: aliceblue;
+  margin-left: 20px;
+  font-size: 1rem;
+}
+.moduleText {
+  margin-top: 20px;
+  font-size: 1rem;
+}
+.ModuleText {
+  color: aliceblue;
+  margin-left: 30px;
+  margin-top: 10px;
+  font-size: 1rem;
+}
+.ModuleText1 {
+  color: #adadad;
+  font-size: 1.5rem;
+}
+.text1 {
+  color: aliceblue;
+  font-size: 1.5rem;
+}
+#text1 {
+  font-size: 1rem;
+  font-weight: 300;
+}

@@ -1,0 +1,33 @@
+#tcc1 {
+    background: #F8F9FE;
+    border: 1px solid #DEDEDE;
+    box-shadow: 0px 4px 10px rgb(0 0 0 / 25%);
+    border-radius: 1rem;
+    padding: 1rem;
+    margin-right: 1rem;
+}
+#tcc2 {
+    font-family: Jost;
+    font-weight: 400;
+    text-align: justify;
+    margin: 0.5rem 0 0.5rem 0;
+}
+#tcc3 {
+    display: flex;
+    justify-content: center;
+}
+#tcc4 {
+    font-size: 0.6rem;
+    font-weight: 500;
+    margin: 0 0 0.5rem 0;
+}
+#tcc5 {
+    margin: 0.5rem 1rem 2rem 0;
+    font-family: Poppins;
+    font-size: 1rem;
+    font-weight: 400;
+}
+#tcc6 {
+    text-decoration: none;
+    color: initial;
+}

@@ -1,0 +1,18 @@
+.mainbuttonfielddiv {
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+.commonbtn {
+  padding: 2px;
+  margin: 7px 1px;
+  width: 8vw;
+  border-radius: 20px;
+  background: #fa4159;
+  border-width: 1px solid black;
+}
+.text {
+  text-align: center;
+}
