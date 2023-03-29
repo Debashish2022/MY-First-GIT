@@ -1,0 +1,58 @@
+#govpay1 {
+    border: 1px solid #ffffff;
+    box-shadow: 0px 4px 4px rgb(0 0 0 / 25%);
+    padding: 1rem;
+    border-radius: 1rem;
+    background-color: #ffffff;
+    margin-top: 1rem;
+    min-height: 70vh;
+    gap: 0.5rem;
+  }
+  #light {
+    background: rgb(41, 250, 237);
+    background: linear-gradient(
+      326deg,
+      rgba(41, 250, 237, 1) 0%,
+      rgba(252, 255, 254, 1) 100%
+    );
+    border: 2px solid white;
+    box-shadow: 0px 4px 4px rgb(0 0 0 / 25%);
+  
+    min-height: 6rem;
+    border-radius: 1rem;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+  }
+  #bulbicon {
+    font-size: 3rem;
+    color: rgb(250, 226, 41);
+    color: linear-gradient(
+      171deg,
+      rgba(250, 226, 41, 1) 0%,
+      rgba(240, 123, 14, 1) 100%
+    );
+    background: transparent;
+    outline: 13px soild #fff;
+  }
+  #govpay2 {
+    gap: 0.8rem;
+  }
+  #govpay3 {
+    text-align: center;
+    margin-top: 5px;
+    font-size: 14px;
+    font-family: "poppins";
+    font-weight: 300;
+  }
+  #watericon {
+    color: rgb(207, 253, 255);
+    color: linear-gradient(
+      171deg,
+      rgba(255, 255, 255, 1) 0%,
+      rgba(14, 239, 240, 1) 100%
+    );
+    font-size: 3rem;
+    outline: 13px soild #fff;
+  }
+  
