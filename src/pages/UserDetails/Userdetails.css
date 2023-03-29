@@ -1,0 +1,38 @@
+#con {
+  /* overflow:scroll; */
+  margin-top: 1.5rem;
+}
+#usertext {
+  font-size: 0.9rem;
+  overflow-wrap: break-word;
+}
+#userheading2 {
+  text-align: center;
+}
+#mail {
+  font-size: 0.9rem;
+  overflow-wrap: break-word;
+  text-align: center;
+}
+#icon {
+  text-align: center;
+}
+#iconsize {
+  font-size: 2rem;
+}
+#heading {
+  margin-bottom: 1rem;
+  display: flex;
+  justify-content: center;
+  font-weight: 600;
+  font-size: 1rem;
+}
+#profileimg {
+  height: 2.5rem;
+  width: 2.5rem;
+}
+#userdata {
+  display: flex;
+  align-items: center;
+  margin-bottom: 1rem;
+}

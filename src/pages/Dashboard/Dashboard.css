@@ -1,0 +1,85 @@
+#Dash11 {
+  color: #f6c518;
+}
+#Dash12 {
+  color: white;
+  font-size: 1.7rem;
+}
+#Dash13 {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  color: #f6c518;
+  font-size: 3rem;
+}
+#Dash1 {
+  background-color: #1a1a1a;
+  padding: 1.5rem;
+  border-radius: 0.5rem;
+}
+#Dash2 {
+  margin-top: 1.5rem;
+}
+#Dash5 {
+  padding: 1rem;
+  border-radius: 0.5rem;
+  background-color: #1c1c1c;
+}
+#Dash6 {
+  padding: 1rem;
+  border-radius: 0.5rem;
+  background-color: #f05904;
+}
+#Dash7 {
+  padding: 1rem;
+  border-radius: 0.5rem;
+  background-color: #1c1c1c;
+}
+#Dash8 {
+  padding: 1rem;
+  border-radius: 0.5rem;
+  background-color: #f05904;
+}
+#Dash3 {
+  color: white;
+  margin-left: 0.3rem;
+}
+
+#Dash4 {
+  color: white;
+  margin-left: 0.3rem;
+  font-size: 1.7rem;
+}
+#Dash9 {
+  margin-top: 2.5rem;
+  font-size: 1.3rem;
+  font-weight: bold;
+}
+#Dash10 {
+  overflow-x: auto;
+  overflow-y: hidden;
+  white-space: nowrap;
+}
+#Dash14 {
+  border-bottom-width: 0;
+}
+#Dash15 {
+  background-color: #f05904;
+  border: none;
+  margin-left: -0.7rem;
+}
+#Dash16 {
+  margin-top: 3rem;
+}
+#Dash17 {
+  margin-top: 0.7rem;
+}
+#Dash18 {
+  color: white;
+}
+#Dash19 {
+  color: #ff751a;
+}
+#Dash20{
+  color: yellow;
+}

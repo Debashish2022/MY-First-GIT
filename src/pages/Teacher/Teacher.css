@@ -1,0 +1,34 @@
+#teacher1{
+    font-size: x-large;
+    color: #1C1C1C;
+    font-family: 'Poppins';
+    font-weight: 600;
+    }
+    #teacher2{
+    color: #F05904;
+    font-size: large;
+    }
+    #teacher3{
+    margin-top: 2rem;
+    font-family: Poppins;
+    font-size: large;
+    }
+    #teacher4{
+    background-color: #1C1C1C;
+    }
+    #teacher5{
+    background-color: #F05904;
+    border: none;
+    }
+    #teacher7{
+    background-color: #F05904;
+    color: #FFFFFF;
+    margin-top: 2rem;
+    padding: 0.5rem;
+    font-size: x-large;
+    font-family: 'Poppins';
+    margin-left: 0.8rem;
+    }
+    #teacher8{
+        margin-top: 3rem;
+    }

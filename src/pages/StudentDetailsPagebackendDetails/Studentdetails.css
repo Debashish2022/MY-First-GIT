@@ -1,0 +1,90 @@
+#studentdash1 {
+  background: linear-gradient(90.07deg, #f78318 -12.7%, #ff00b8 176.88%);
+  box-shadow: 7px 9px 8px rgba(0, 0, 0, 0.25);
+  margin-top: 3.6rem;
+  padding: 1.5rem;
+}
+
+#studentdash2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#studentdash3 {
+  text-align: center;
+  margin: auto;
+  color: white;
+}
+.studentdash4 {
+  font-size: 2rem;
+  font-weight: 400;
+}
+.studentdash5 {
+  font-size: 3rem;
+  font-weight: 500;
+}
+#studentdash6 {
+  border-radius: 1rem;
+  background-color: #e8edf2;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  margin-top: 2rem;
+}
+.studentdash7 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#studentdash8 {
+  
+  height: 8rem;
+  width: 8rem;
+  border: 7px solid black;
+  border-radius: 50%;
+  margin-right: 2rem;
+  /* margin-bottom: 2rem; */
+  margin-top: 1rem;margin-left: 5rem;
+}
+.studentdash9 {
+  font-size: 1.8rem;
+  font-weight: 500;
+  background: linear-gradient(90.27deg, #242424 49.3%, #fc3973 79.09%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.studentdash10 {
+  font-size: 0.8rem;
+  font-weight: 500;
+}
+#studentdash11 {
+  display: flex;
+  justify-content: center;
+}
+#studentdash12 {
+  height: 1.5rem;
+  width: 1.5rem;
+  color: #fc3973;
+}
+#studentdash13 {
+  /* display: flex;
+    justify-content: center;
+    align-items: center; */
+  margin: auto;
+  text-align: center;
+}
+
+.studentdash15 {
+  font-size: 1.3rem;
+  font-weight: 700;
+}
+
+#studentdash27 {
+  background: black;
+  color: white;
+  margin-top: 2.5rem;
+  margin-bottom: 2rem;
+  font-size: 2rem;
+  font-weight: 600;
+  padding: 1rem;
+}
