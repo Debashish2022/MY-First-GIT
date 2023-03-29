@@ -1,0 +1,33 @@
+#addNewCareerDataBtn {
+  width: 15%;
+  /* height: 3rem; */
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  margin-left: 1rem;
+}
+
+#Four {
+  font-weight: 400;
+  margin-top: 1rem;
+  font-size: 1.2rem;
+  font-family: 'Poppins';
+}
+
+#Five {
+  margin-top: 1rem;
+  font-size: 0.8rem;
+  font-family: 'Poppins';
+}
+
+#Six {
+  color: #1976d2;
+  /* margin-top: 15px; */
+  /* margin-top: 1rem; */
+  font-size: 0.8rem;
+  font-family: 'Poppins';
+}
+
+#Seven {
+  font-size: 0.8rem;
+  font-family: 'Poppins';
+}

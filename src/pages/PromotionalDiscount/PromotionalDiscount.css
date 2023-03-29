@@ -1,0 +1,22 @@
+#promotional1{
+    width: 100%;
+}
+#promotional2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#promotional3{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+#promotional4{
+    color: black;
+    font-weight: 600;
+    font-size: 1.2rem;
+}
+#promotional5{
+    font-size: 2rem;
+  font-weight: 600;
+  margin-bottom: 2rem;
+}

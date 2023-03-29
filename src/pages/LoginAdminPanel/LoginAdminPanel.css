@@ -1,0 +1,85 @@
+#containerDiv {
+  margin-top: 8rem;
+}
+
+#signInMainDiv {
+  border: 1px solid #ffffff;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 4px 0px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 1rem;
+  /* height: 35rem; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 5rem 2rem 5rem 2rem;
+}
+
+#logoDiv {
+  display: flex;
+  justify-content: center;
+  /* align-items: center;
+    background: #D4F7E8;
+    border-top-left-radius: 1rem;
+    border-bottom-left-radius: 1rem; */
+}
+
+#signInDiv {
+  /* padding-top: 8rem;
+    padding-bottom: 8rem; */
+  align-items: center;
+}
+
+#signInTxt {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 2rem;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.5rem;
+  line-height: 2rem;
+  color: #000000;
+  text-align: center;
+}
+
+#signInBtnDiv {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 3rem;
+}
+
+#signInBtn {
+  width: 100%;
+  margin: 0px;
+  background-color: #5aa644;
+}
+
+/* @media screen and (min-width: 480px) {
+    #containerDiv {
+        margin-top: 5rem;
+    }
+
+    #signInDiv {
+        padding-top: 3rem;
+        padding-bottom: 3rem;
+    }
+} */
+#adminlogin1 {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  border: none;
+  border-radius: 5px;
+  outline: none;
+  background-color: #e8f0fe;
+  
+}
+#adminlogin2 {
+  margin-left: 10px;
+  margin-right: 10px;
+  color: black;
+}
+#adminlogin3{
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+}

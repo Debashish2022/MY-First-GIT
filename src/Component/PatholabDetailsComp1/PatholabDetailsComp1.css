@@ -1,0 +1,47 @@
+ 
+#patholabcomp2 {
+  background: #fff;
+  border-radius: 1rem;
+  padding: 2rem;
+  overflow-x: auto;
+  overflow-y: hidden;
+  white-space: nowrap;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+  -webkit-box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16),
+    0 3px 6px rgba(0, 0, 0, 0.23);
+    margin-top: 1rem;
+}
+/* #patholabcomp2::-webkit-scrollbar {
+  display: none;
+} */
+#patholabcomp3 {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 0.65rem;
+  color: #192a3e;
+  text-align: center;
+}
+#patholabcomp4 {
+  border: 0px;
+  padding-top: 0.7rem;
+}
+#patholabcomp5 {
+  border-radius: 1.5rem;
+  margin-right: 0.7rem;
+}
+#patholabcomp6 {
+  border: 0px;
+  padding-top: 1rem;
+}
+#starIcon {
+  color: #f3ba2f;
+  margin-right: 0.2rem;
+}
+#patholab7{
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 1.2rem;
+    margin-bottom: 0.6rem;
+
+}

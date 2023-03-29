@@ -1,0 +1,36 @@
+#patho1{
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+  -webkit-box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16),
+    0 3px 6px rgba(0, 0, 0, 0.23);
+    border-radius: 1rem;
+    padding: 1rem;
+    margin-top: 2rem;
+    background-color: #fff;
+}
+#patho2{
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 0.8rem;
+    margin-bottom: 0.7rem;
+}
+#patho3{
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 1.1rem;
+    color: #52A555;
+    margin-bottom: 0.2rem;
+    margin-top: 1.5rem;
+}
+#pathoediticon{
+    font-size: 1rem;
+    margin-left: 0.6rem;
+}
+#patho5{
+    color: red;
+    margin-top: 1.7rem;
+}
+#patholab6{
+    width: 100%;
+    margin-bottom: 0.3rem;
+    margin-top: 0.3rem;
+}

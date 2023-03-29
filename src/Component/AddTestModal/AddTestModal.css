@@ -1,0 +1,14 @@
+#test1{
+    margin-bottom: 1rem;
+    font-weight: 600;
+}
+#test2{
+    margin-bottom: 0.3rem;
+}
+#test3{
+    width: 100%;
+    background-color: #5AA644;
+    color: white;
+    border: none;
+    margin-top: 1.1rem;
+}
