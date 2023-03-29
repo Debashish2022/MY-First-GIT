@@ -1,0 +1,65 @@
+#loginpag1 {
+  max-width: 20rem;
+  margin: auto;
+  border-radius: 2rem;
+  padding: 1rem;
+  min-height: 50vh;
+  background-color: #ffffff;
+  border: solid 5px #2edb99;
+  transition: border-width 0.6s linear;
+
+}
+#loginpag1:hover { border-width: 1px;
+  background-color: #ffffff;
+}
+#loginpag2 {
+  text-align: center;
+  font-weight: 700;
+  margin-bottom: 1.5rem;
+  margin-top: 1rem;
+  color: #19B176;
+  font-weight: bold;
+}
+#loginpag3 {
+  height: 100vh;
+  background-image: linear-gradient(to top right, #0bf2f2, #cc09dc);
+  display: flex;
+  align-items: center;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+#login4 {
+  margin-bottom: 1rem;
+  margin-top: 1rem;
+}
+#logbtn {
+  height: 2.5rem;
+  background-image: linear-gradient(to top right, #0bf2f2, #cc09dc);
+  margin-top: 0.7rem;
+  border-radius: 3rem;
+}
+#loginpag6 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #9fa2b4;
+  font-size: 1rem;
+  margin-top: -1rem;
+  margin-bottom: 1.5rem;
+  font-family: Mulish;
+}
+#login7 {
+  text-align: center;
+}
+#log {
+  margin-top: 1.3rem;
+  font-family: Mulish;
+  height: 4rem;
+}
+.input1 {
+  font-family: Mulish;
+}
+#typo2 {
+  display: flex;
+  float: left;
+}

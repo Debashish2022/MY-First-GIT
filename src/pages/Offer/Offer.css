@@ -1,0 +1,33 @@
+#offermain{
+    border: 1px solid #ffffff;
+    box-shadow: 0px 4px 4px rgb(0 0 0 / 25%);
+    padding: 1rem;
+    border-radius: 1rem;
+    background-color: #ffffff;
+}
+#offer2{
+    width: 100%;
+}
+
+#offer3{
+   justify-content: flex-start;
+   display: flex;
+   width: .2rem;
+   
+   
+    
+}
+#offer4{
+    font-size: 12px;
+    font-weight: 800;
+    /* padding-left: 10px; */
+    padding-top: 10px;
+    padding-bottom: 10px;
+    height: 2rem;
+    padding-right: 1.8rem;
+    margin-top: 1rem;
+}
+.css-180lf2n-MuiButtonBase-root-MuiButton-root{
+    padding: 0px;
+    margin: 0px;
+}

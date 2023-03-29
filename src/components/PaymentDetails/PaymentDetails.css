@@ -1,0 +1,14 @@
+*{
+    font-family: poppins;
+}
+
+#paymentdetails2{
+    box-shadow: none;
+    background-color: #FF9800;
+}
+#paymentdetails3{
+    box-shadow: none;
+    background-color: #19B176;
+    align-items: center;
+    justify-content: center;
+}

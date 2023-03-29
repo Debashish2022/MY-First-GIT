@@ -1,0 +1,152 @@
+/* #help3 {
+    height: auto;
+    background-image: linear-gradient(to left, #e6f2ff, #e6f2ff);
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+  #comp1 {
+    background-color: white;
+    padding: 2rem;
+    border-radius: 1rem;
+    border-color: none;
+    margin-top: 1.5rem;
+    margin: 1rem;
+  }
+  #comp2 {
+    background-color: white;
+    padding: 2rem;
+    border-radius: 1rem;
+    border-color: none;
+    margin-top: 1.5rem;
+    margin: 1rem;
+  }
+  #help2 {
+    padding-top: 1.35rem;
+    display: flex;
+    margin-left: 0.6rem;
+  
+  }
+  #help4 {
+    margin-top: 0.7rem;
+  }
+  .text {
+    width: 100%;
+    margin-top: 3rem;
+  }
+  #cont {
+    margin-top: 4rem;
+  }
+  #helpbtn {
+    padding-left: 2rem;
+    padding-right: 2rem;
+    margin-top: 1.5rem;
+    display:flex;
+    float:left;
+  }
+  #help6 {
+    color: #4c4c4c;
+    font-weight: bold;
+    font-size: 1.1rem;
+  }
+  #help7 {
+    margin-top: 0.8rem;
+  }
+  #help8 {
+    color: #4c4c4c;
+    font-weight: bold;
+    font-size: 1.1rem;
+    margin-top: 1rem;
+  }
+  #helpbtn2 {
+    color: #f00c0c;
+    display: flex;
+    float: right;
+  }
+  #help9 {
+    padding-left: 1.4rem;
+    font-weight: bold;
+    font-size: 1.2rem;
+  }
+  
+  #help1{
+    font-size: 1rem;
+    font-weight: 700;
+    display: flex;
+    float: left;
+  } */
+
+
+
+  #grid3 {
+    height: auto;
+    background-image: linear-gradient(to left, #e6f2ff, #e6f2ff);
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+  #card1 {
+    background-color: white;
+    padding: 2rem;
+    border-radius: 1rem;
+    border-color: none;
+    margin-top: 1.5rem;
+    margin: 1rem;
+  }
+  #card2 {
+    background-color: white;
+    padding: 2rem;
+    border-radius: 1rem;
+    border-color: none;
+    margin-top: 1.5rem;
+    margin: 1rem;
+  }
+  #grid2 {
+    padding-top: 1.35rem;
+    display: flex;
+    margin-left: 0.6rem;
+  
+  }
+  #grid4 {
+    margin-top: 0.7rem;
+  }
+  .text {
+    width: 100%;
+    margin-top: 3rem;
+  }
+  #cont {
+    margin-top: 4rem;
+  }
+  #mybtn {
+    padding-left: 2rem;
+    padding-right: 2rem;
+    margin-top: 1.5rem;
+  }
+  #grid6 {
+    color: #4c4c4c;
+    font-weight: bold;
+    font-size: 1.1rem;
+  }
+  #grid7 {
+    margin-top: 0.8rem;
+  }
+  #grid8 {
+    color: #4c4c4c;
+    font-weight: bold;
+    font-size: 1.1rem;
+    margin-top: 1rem;
+  }
+  #btn2 {
+    color: #f00c0c;
+    display: flex;
+    float: right;
+  }
+  #grid9 {
+    padding-left: 1.4rem;
+    font-weight: bold;
+    font-size: 1.2rem;
+  }
+  
+  #grid1{
+    font-size: 1rem;
+    font-weight: 700;
+  }
+  

@@ -1,0 +1,114 @@
+#one{
+    border-radius: 1rem;
+    margin-top: 2rem;
+    width: 96%;
+    padding: 1rem;
+    font-family: 'Poppins';
+    background: linear-gradient(180deg, #F44336 0%, #EA0F0F 100%);
+    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.25);
+    color: #ffffff;
+ }
+ #dashcomp2{
+     display: flex;
+     justify-content: center;
+     align-items: center;
+    border: 1px solid black;
+    border-radius: 5px;
+    height: 3.2rem;
+    width: 3.2rem;
+    border-radius: 2rem;
+     background-color: white;
+     border-color: white;
+ }
+ #dashcomp3{
+    font-size: 3rem;
+    margin-top: 0.2rem;
+ }
+ #dashcomp4{
+    font-size: xx-large;
+    text-align: left;
+ }
+ #dashcomp5{
+    font-size:  small;
+    text-align: left;
+    font-weight: 300;
+    padding: .4rem 0rem 0rem 0rem;
+    
+    
+ }
+ #dashcomp6{
+     display: flex;
+     justify-content: flex-end;
+ }
+ #dashcomp7{
+     margin-top: 2rem;
+     width: 96%;
+     padding: 1rem;
+     font-family: 'Poppins';
+     background: #FF9800;
+     box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.25);
+     color: #ffffff;
+     border-radius: 1rem;
+ }
+ #dashcomp8{
+     margin-top: 2rem;
+     width: 96%;
+     padding: 1rem;
+     font-family: 'Poppins';
+     background: #2196F3;
+     box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.25);
+     color: #ffffff;
+     border-radius: 1rem;
+ 
+ }
+ #dashcomp9{
+     margin-top: 2rem;
+     width: 96%;
+     padding: 1rem;
+     font-family: 'Poppins';
+     background: #414E63;
+     color: #ffffff;
+     border-radius: 1rem;
+ }
+ #dashcomp10{
+     display: flex;
+     justify-content: flex-end;
+ }
+ #dashcomp11{
+     background-color: #ffffff;
+     justify-content: center;
+     display: flex;
+     font-size: xx-large;
+     align-items: center;
+     color: #F44336;
+     }
+ #dashcomp12{
+     background-color: #ffffff;
+     justify-content: center;
+     display: flex;
+     font-size: xx-large;
+     align-items: center;
+    color: #FF9800;
+ }
+ #dashcomp13{
+     background-color: #ffffff;
+     justify-content: center;
+     display: flex;
+     font-size: xx-large;
+     align-items: center;
+     color: #2196F3;
+ }
+ #dashcomp14{
+     background-color: #ffffff;
+     justify-content: center;
+     display: flex;
+     font-size: xx-large;
+     align-items: center;
+     color: #414E63;
+ }
+ #dashcomp15{
+     font-size:  small;
+     text-align: left;
+     font-weight: 300;
+     padding: .4rem 0rem 0rem 0rem;
+ }
